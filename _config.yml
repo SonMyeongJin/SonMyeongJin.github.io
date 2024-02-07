@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "제목"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "명진"
 description              : "An amazing website."
 url                      : "https://sonmyeongjin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
