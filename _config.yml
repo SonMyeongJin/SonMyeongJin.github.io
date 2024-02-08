@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "제목"
+title                    : "What I've learned until now"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Java / Spring / Unity"
 name                     : "명진"
 description              : "An amazing website."
 url                      : "https://sonmyeongjin.github.io"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "MyeongJin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I will make my **application** until 35 "
+  location         : "Yokohama (JAPAN) "
+  email            : "smj2802@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
