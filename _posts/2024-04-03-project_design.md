@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:  "쇼핑몰 개인 프로젝트 설계"
+title:  "Shopping Mall Project Design"
 ---
 
 # 쇼핑몰 프로젝트 설계
