@@ -3,7 +3,7 @@ layout: archive
 title:  "Shopping Mall Project Design"
 ---
 
-# 쇼핑몰 프로젝트 설계
+# 쇼핑몰 프로젝트 설계 ( Design )
 
 > Frontend : vue.js
 >
