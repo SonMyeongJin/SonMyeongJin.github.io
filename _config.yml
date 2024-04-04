@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "What I've learned until now"
+title                    : "MyeongJin Blog"
 title_separator          : "-"
-subtitle                 : "Java / Spring / Unity"
+subtitle                 : "C# , java , javascript , sql"
 name                     : "명진"
 description              : "An amazing website."
 url                      : "https://sonmyeongjin.github.io"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "MyeongJin"
+  name             : "명진"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I will make my **application** until 35 "
-  location         : "Yokohama (JAPAN) "
+  bio              : "Front : vue.js / Back : springboot"
+  location         : "Yokohama (JAPAN)"
   email            : "smj2802@naver.com"
   links:
     - label: "Email"
