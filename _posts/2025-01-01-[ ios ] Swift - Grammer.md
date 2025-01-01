@@ -1,7 +1,6 @@
 ---
 layout: archive
-title:  "Rest API"
-published : false
+title:  "[ios] Swift Grammer"
 ---
 
 ## if문
