@@ -1,6 +1,7 @@
 ---
 layout: archive
-title:  "[ios] Swift Grammer"
+title:  "[ios] Swift Grammer - Day1"
+author_profile: true
 ---
 
 * ; 세미클론 생략가능 
