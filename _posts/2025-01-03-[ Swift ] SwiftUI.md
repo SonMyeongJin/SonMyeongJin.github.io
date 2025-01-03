@@ -19,6 +19,7 @@ tags:
     스케줄링,
   ]
 image: "/assets/img/title/linux_logo_white.png"
+layout: post 
 ---
 
 ## List
