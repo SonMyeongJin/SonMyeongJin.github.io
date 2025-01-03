@@ -1,7 +1,13 @@
 ---
-layout: archive
-title:  "[swift] SwftUI - List"
-author_profile: true
+title: "[swift] SwftUI - List"
+date: 2025-01-01 22:19:00 +09:00
+last_modified_at: 2025-01-01 22:19:00 +09:00
+categories: [Linux, Test1]
+tags:
+  [
+    Test1,
+    Test2
+  ]
 ---
 
 ## List
