@@ -1,5 +1,5 @@
 ---
-title: "[swift] SwftUI - List"
+title: "[ Swift ] SwiftUI"
 date: 2024-12-05 22:19:00 +09:00
 last_modified_at: 2024-12-05 22:19:00 +09:00
 categories: [Linux, Ubuntu]
