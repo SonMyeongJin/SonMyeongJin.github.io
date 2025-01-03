@@ -1,13 +1,24 @@
 ---
 title: "[swift] SwftUI - List"
-date: 2025-01-01 22:19:00 +09:00
-last_modified_at: 2025-01-01 22:19:00 +09:00
-categories: [Linux, Test1]
+date: 2024-12-05 22:19:00 +09:00
+last_modified_at: 2024-12-05 22:19:00 +09:00
+categories: [Linux, Ubuntu]
 tags:
   [
-    Test1,
-    Test2
+    linux,
+    ubuntu,
+    crontab,
+    schedule,
+    scheduler,
+    scheduling,
+    리눅스,
+    우분투,
+    크론탭,
+    스케줄,
+    스케줄러,
+    스케줄링,
   ]
+image: "/assets/img/title/linux_logo_white.png"
 ---
 
 ## List
