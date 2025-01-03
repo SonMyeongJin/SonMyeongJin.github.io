@@ -1,10 +1,42 @@
 ---
 layout: archive
-title:  "[swift] SwftUI - NavigationSplitView"
+title:  "[swift] SwftUI - Navigation"
 author_profile: true
 ---
 
 ![](이미지_소스_URL)
+# NavigationView
+* 네비게이션 가장 상위 구조
+* 화면 상단에 네비게이션 바 생성
+
+# NavigationLink
+* navigationLink로 View 전환 가능, 탭했을 때 지정된 view로 이동
+* destination 매개변수로 이동할 뷰 지정
+
+```swift
+struct ContentView: View {
+    var body: some View {
+        NavigationView {
+            List {
+                NavigationLink(destination: DetailView(item: "Item 1")) {
+                    Text("Item 1")
+                }
+                
+                NavigationLink(destination: DetailView(item: "Item 2")) {
+                    Text("Item 2")
+                }
+
+                NavigationLink(destination: DetailView(item: "Item 3")) {
+                    Text("Item 3")
+                }
+            }
+            .navigationTitle("Item List")
+        }
+    }
+}
+
+```
+
 
 ## NavigationSplitView
 
