@@ -4,7 +4,6 @@ title:  "[swift] SwftUI - Navigation"
 author_profile: true
 ---
 
-![](이미지_소스_URL)
 # NavigationView
 * 네비게이션 가장 상위 구조
 * 화면 상단에 네비게이션 바 생성
