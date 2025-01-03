@@ -1,7 +1,7 @@
 ---
-layout: archive
 title:  "[swift] SwftUI - Navigation"
-author_profile: true
+layout: post 
+categories: [Test1, Test2]
 ---
 
 # NavigationView
