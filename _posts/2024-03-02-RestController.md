@@ -1,7 +1,6 @@
 ---
 layout: archive
 title:  "RestController"
-published : false
 ---
 
 # @RestController
