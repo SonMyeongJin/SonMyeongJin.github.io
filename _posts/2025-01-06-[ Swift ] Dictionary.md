@@ -60,3 +60,37 @@ for (key, value) in fruits {
 let unknown = fruits["Pineapple"] // nil
 ```
 key가 존재하지 않는 값일 수 있기 때문에
+
+# Grouping Dictionary
+
+일반 Dictionary와 key,Value 로 저장한다는것은 같지만 생성 방법, 구조 가 다름 (다른 배열이라 생각하자)
+
+### 구조
+
+```swift
+Dictionary(grouping: <배열>, by: { <기준 클로저> })
+```
+
+예제
+```swift
+let fruits = [
+    "Apple",
+    "Banana",
+    "Cherry",
+    "Blueberry",
+    "Avocado"
+]
+// 일 때 
+
+let groupedFruits = Dictionary(grouping: fruits, by: { $0.first! })
+// $0.first!는 각 문자열의 첫 글자를 기준으로 그룹화
+```
+
+```swift
+[
+    "A": ["Apple", "Avocado"],
+    "B": ["Banana", "Blueberry"],
+    "C": ["Cherry"]
+]
+// A,B,C가 key , []이 value
+```
