@@ -1,0 +1,37 @@
+---
+title:  "[Team Project] Project Plan"
+categories: [backend,java,project]
+tags:
+  [
+    notion,
+    figma,
+    java,
+    spring,
+    ERD
+  ] 
+---
+# Team Member
+* Designer : 1
+* Frontend : 2
+* Backend : 3
+
+# Framework
+* Communication: Notion
+* Design Planning & Meetings: Figma
+* API Documentation: Notion
+* Data ERD: ERD Cloud
+* Deploy : AWS 
+
+# Backend Part Workflow
+1. Collect Data for Database
+2. Create Database ERD
+3. Break Down Features for Implementation
+4. Divide Development Tasks
+5. Develop Individually in Personal Branches
+6. Conduct Code Reviews via GitHub Pull Requests
+7. Perform Deployment Using AWS CI/CD
+8. Document Completed Features in the API Specification
+9. Collaborate with the frontend team and revise if necessary
+10. Connect Server with Frontend
+
+
