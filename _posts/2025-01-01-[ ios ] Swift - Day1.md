@@ -1,7 +1,15 @@
 ---
-layout: archive
 title:  "[ios] Swift Grammer - Day1"
-author_profile: true
+categories: [swift, ios]
+tags:
+  [
+    swift,
+    ios,
+    if,
+    3항연산자,
+    반복문,
+    enum
+  ] 
 ---
 
 * ; 세미클론 생략가능 

@@ -1,5 +1,5 @@
 ---
-title:  "[Team Project] Project Plan"
+title:  "[Team Project] Database ERD"
 categories: [backend,java,project]
 tags:
   [

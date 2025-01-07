@@ -1,6 +1,12 @@
 ---
-layout: archive
-title:  "RestController"
+title:  "[Java] RestController"
+categories: [backend,java]
+tags:
+  [
+    @restcontroller,
+    java,
+    spring
+  ] 
 ---
 
 # @RestController

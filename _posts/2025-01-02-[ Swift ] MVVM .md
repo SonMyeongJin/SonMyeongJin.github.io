@@ -1,7 +1,12 @@
 ---
-layout: archive
 title:  "[swift] Swift Grammer - Day2"
-author_profile: true
+categories: [swift, ios]
+tags:
+  [
+    swift,
+    ios,
+    mvvm
+  ] 
 ---
 
 ## MVVM

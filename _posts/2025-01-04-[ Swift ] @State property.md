@@ -6,9 +6,9 @@ tags:
     swift,
     ios,
     swiftUI,
-    State,
-    Observable,
-    Environment
+    state,
+    observable,
+    environment
   ] 
 ---
 

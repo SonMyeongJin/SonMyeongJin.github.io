@@ -4,7 +4,8 @@ categories: [swift, ios]
 tags:
   [
     swift,
-    ios
+    ios,
+    dictionary
   ] 
 ---
 

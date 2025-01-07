@@ -15,6 +15,13 @@ tags:
 * Frontend : 2
 * Backend : 3
 
+# Purpose of the Service
+To gather public gym facility information and make it easy for users to book them.
+
+# Functional Goals
+1. Allow users to create a crew and register it so other users can join.
+2. Provide booking and review features based on public facility data.
+3. Introduce public gyms available by region.
 # Framework
 * Communication: Notion
 * Design Planning & Meetings: Figma
