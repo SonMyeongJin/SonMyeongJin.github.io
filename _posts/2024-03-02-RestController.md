@@ -3,7 +3,7 @@ title:  "[Java] RestController"
 categories: [backend,java]
 tags:
   [
-    @restcontroller,
+    restcontroller,
     java,
     spring
   ] 
