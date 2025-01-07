@@ -1,7 +1,16 @@
 ---
 title:  "[swift] SwftUI - Navigation"
 layout: post 
-categories: [Test1, Test2]
+categories: [swift,ios]
+tags:
+  [
+    swift,
+    Ios,
+    swiftUI,
+    navigation,
+    navigationView,
+    navigationLink
+  ] 
 ---
 
 # NavigationView
