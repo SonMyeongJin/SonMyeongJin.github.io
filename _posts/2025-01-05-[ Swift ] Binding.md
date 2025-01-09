@@ -1,6 +1,6 @@
 ---
 title: "[ Swift ] Binding"
-categories: [swift, ios]
+categories: [ios , swift ]
 tags:
   [
     swift,

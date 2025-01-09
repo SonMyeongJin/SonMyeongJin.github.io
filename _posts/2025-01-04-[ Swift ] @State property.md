@@ -1,6 +1,6 @@
 ---
 title: "[ Swift ] @State @Observable @Environment"
-categories: [swift, ios]
+categories: [ios , swift ]
 tags:
   [
     swift,

@@ -1,7 +1,7 @@
 ---
 title:  "[swift] SwftUI - Navigation"
 layout: post 
-categories: [swift,ios]
+categories: [ios , swift ]
 tags:
   [
     swift,

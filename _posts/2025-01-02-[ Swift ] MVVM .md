@@ -1,6 +1,6 @@
 ---
 title:  "[swift] Swift Grammer - Day2"
-categories: [swift, ios]
+categories: [ios , swift ]
 tags:
   [
     swift,
