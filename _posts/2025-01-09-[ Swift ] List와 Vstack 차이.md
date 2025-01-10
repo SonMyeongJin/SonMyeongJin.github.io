@@ -1,6 +1,6 @@
 ---
 title: "[ Swift ] List와 VStack"
-categories: [ios , swift ]
+categories: [Ios , Swift ]
 tags:
   [
     swift,

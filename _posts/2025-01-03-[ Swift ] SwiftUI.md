@@ -1,6 +1,6 @@
 ---
 title: "[ Swift ] SwiftUI"
-categories: [ios , swift ]
+categories: [Ios , Swift ]
 tags:
   [
     swift,

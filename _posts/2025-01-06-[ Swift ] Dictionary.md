@@ -1,6 +1,6 @@
 ---
 title: "[ Swift ] Dictionary"
-categories: [ios , swift ]
+categories: [Ios , Swift ]
 tags:
   [
     swift,

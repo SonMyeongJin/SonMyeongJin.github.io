@@ -1,7 +1,6 @@
 ---
-title:  "[swift] SwftUI - Navigation"
-layout: post 
-categories: [ios , swift ]
+title:  "[ Swift ] SwftUI - Navigation"
+categories: [Ios , Swift ]
 tags:
   [
     swift,

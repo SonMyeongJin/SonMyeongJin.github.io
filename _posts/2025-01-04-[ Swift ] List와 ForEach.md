@@ -1,6 +1,6 @@
 ---
 title: "[ Swift ] List와 ForEach"
-categories: [ios , swift ]
+categories: [Ios , Swift ]
 tags:
   [
     swift,
