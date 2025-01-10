@@ -1,6 +1,6 @@
 ---
 title:  "[Team Project] Project Plan"
-categories: [backend,java,project]
+categories: [Project, Team]
 tags:
   [
     notion,

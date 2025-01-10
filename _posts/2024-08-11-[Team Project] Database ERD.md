@@ -1,6 +1,6 @@
 ---
 title:  "[Team Project] Database ERD"
-categories: [backend,java,project]
+categories: [Project, Team]
 tags:
   [
     notion,

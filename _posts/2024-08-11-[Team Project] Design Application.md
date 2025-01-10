@@ -1,6 +1,6 @@
 ---
 title:  "[Team Project] Design Application"
-categories: [backend,java,project]
+categories: [Project, Team]
 tags:
   [
     notion,
