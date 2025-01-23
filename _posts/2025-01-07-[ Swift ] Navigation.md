@@ -8,13 +8,20 @@ tags:
     swiftUI,
     navigation,
     navigationView,
-    navigationLink
+    navigationLink,
+    navigationStack
   ] 
 ---
 
-# NavigationView
+# NavigationView -> NavigationStack
+* 뷰들의 관계를 push와 pop을 통해 계층 관계를 이루게끔 하는 뷰 
+* (수평 관계는 TabView로 사용)
 * 네비게이션 가장 상위 구조
 * 화면 상단에 네비게이션 바 생성
+
+### ios 16.0 부터 NavigationVIew는 Deprecated 
+### -> ios 16.0 부터 NavigationStack 사용
+ 
 
 # NavigationLink
 * navigationLink로 View 전환 가능, 탭했을 때 지정된 view로 이동
@@ -70,3 +77,4 @@ struct ContentView: View {
              // 디테일 영역
         }
 ```
+
