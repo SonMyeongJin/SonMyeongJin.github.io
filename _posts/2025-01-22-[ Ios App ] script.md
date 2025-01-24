@@ -29,5 +29,6 @@ published: true
 ```
 
 ## 상세 페이지 뼈대
-![](/assets/img/스크린샷%202025-01-23%20오전%202.21.58.png)
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="/assets/img/스크린샷%202025-01-23%20오전%202.21.58.png" width="400" />
+</div>

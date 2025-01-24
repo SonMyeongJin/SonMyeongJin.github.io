@@ -24,7 +24,8 @@ web형식이기 떄문에 재생버튼을 누르면 전체화면으로 재생된
 
 이 라이브러리를 이용하면 
 
-![3](/assets/img/webview3.png)
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="/assets/img/webview3.png" width="400" />
+</div>
 
 * 유튜브 플레이어 라이브러리를 사용하면 전체화면 없이 재생하면서 밑에 스크립트도 같이 볼 수 있다.
