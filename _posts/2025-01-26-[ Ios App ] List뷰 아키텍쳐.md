@@ -7,6 +7,7 @@ tags:
   ] 
 published: true
 ---
+
 ###  NavigationStack 을 이용해
 ### ArtistListView -> ScriptListView -> Detailpage
 
