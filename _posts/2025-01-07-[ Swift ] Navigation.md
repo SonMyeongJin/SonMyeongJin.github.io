@@ -23,6 +23,13 @@ tags:
 ### -> ios 16.0 부터 NavigationStack 사용
  
 
+ ## NavvigationStack 중첩 문제
+
+ ![1](/assets/img/스크린샷%202025-01-24%20오후%2012.15.14.png)
+
+ * NavigationStack을 중첩해서 사용하면 이런식으로 뷰가 겹쳐서 보임
+ * NavigationStack은 최상위 계층에서 한번만 선언해주면 됨
+
 # NavigationLink
 * navigationLink로 View 전환 가능, 탭했을 때 지정된 view로 이동
 * destination 매개변수로 이동할 뷰 지정
