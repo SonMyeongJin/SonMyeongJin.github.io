@@ -5,7 +5,7 @@ tags:
   [ios,
   swift,
   ] 
-published: false
+published: true
 ---
 
 ## 테스트용 DB
