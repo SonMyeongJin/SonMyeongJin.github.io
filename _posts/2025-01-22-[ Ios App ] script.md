@@ -32,3 +32,6 @@ published: true
 <div style="display: flex; justify-content: space-around;">
   <img src="/assets/img/스크린샷%202025-01-23%20오전%202.21.58.png" width="400" />
 </div>
+
+* YoutubeView 밑에 ScriptVIew 배치
+* ScriptView는 ScrollView로 구현
