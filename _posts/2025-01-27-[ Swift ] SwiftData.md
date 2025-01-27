@@ -5,7 +5,9 @@ tags:
   [
     swift,
     ios,
-    swiftData
+    swiftData,
+    json,
+    dataBase
   ] 
 ---
 
