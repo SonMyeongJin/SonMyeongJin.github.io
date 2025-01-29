@@ -1,6 +1,6 @@
 ---
 title:  "[Java] RestController"
-categories: [backend,java]
+categories: [Backend,Java]
 tags:
   [
     restcontroller,
