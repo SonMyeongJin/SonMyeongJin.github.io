@@ -1,5 +1,5 @@
 ---
-title:  "[swift] SwftUI - Navigation"
+title:  "[Github] Actions "
 layout: post 
 categories: [github]
 tags:
