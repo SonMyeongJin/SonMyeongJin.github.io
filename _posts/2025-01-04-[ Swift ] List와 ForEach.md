@@ -87,3 +87,24 @@ var body: some View {
 * List는 바인딩 안되지만(읽기전용) , ForEach는 $로 바인딩하여 데이터 조작 ,함수호출로 상태 관리 가능(읽기/쓰기)
 
 따라서 목록 보여주는 단순한건 List, 즐찾같은 토글은 ForEach 필요
+
+## list 색상 입히는 법
+list 행은 일반 backgorund() 로 색상 수정이 안됨
+
+```swift
+struct TestRow: View {
+
+    var body: some View {
+        Text("This is a row!")
+        .listRowBackground(Color.green)
+    }
+}
+```
+이런식으로 `listRowBackground()` 로 수정해줘야됨 
+```swift
+List {
+    TestRow()
+    TestRow()
+    TestRow()
+}
+```
