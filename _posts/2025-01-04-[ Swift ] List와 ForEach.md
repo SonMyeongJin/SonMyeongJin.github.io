@@ -88,23 +88,36 @@ var body: some View {
 
 따라서 목록 보여주는 단순한건 List, 즐찾같은 토글은 ForEach 필요
 
-## list 색상 입히는 법
-list 행은 일반 backgorund() 로 색상 수정이 안됨
+# list 색상 입히는 법
+*  Row : `.listRowBackground()`
+*  Background : `.scrollContentBackground(.hidden)` 으로 기존 배경 숨기고 다시 다른 색으로 덮어씌우기
 
-```swift
-struct TestRow: View {
+1. Row
+    * list 행은 일반 background() 로 색상 수정이 안됨
+      ```swift
+      struct TestRow: View {
 
-    var body: some View {
-        Text("This is a row!")
-        .listRowBackground(Color.green)
-    }
-}
-```
-이런식으로 `listRowBackground()` 로 수정해줘야됨 
-```swift
-List {
-    TestRow()
-    TestRow()
-    TestRow()
-}
-```
+          var body: some View {
+              Text("This is a row!")
+              .listRowBackground(Color.green)
+          }
+      }
+      ```
+      이런식으로 `listRowBackground()` 로 수정해줘야됨 
+      ```swift
+      List {
+          TestRow()
+          TestRow()
+          TestRow()
+      }
+      ```
+2. Background
+    * .scrollContentBackground(.hidden) 으로 리스트의 무적 하얀색 배경을 지우고 내가 덮어씌우고싶은 함수 호출해서 배경입히면 됨
+      ```swift
+      List(filteredScripts) {
+      }
+      .scrollContentBackground(.hidden)
+      .globalBackground()
+      ```
+      ![](/assets/img/Feb-02-2025%2022-23-01.gif)
+      
