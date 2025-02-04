@@ -13,12 +13,9 @@ Script에서 타임스탬프를 누르면 해당 시간대로 유튜브 재생�
 
 ## TroubleShooting
 
-
 테스트 과정에서는 스탬프 누르면 정상적으로 youtubeView 가 이동하는걸 볼 수 있지만 실제 적용시 작동하지 않음.
 디버그에서 찍히는걸 봐선 다른 youtubeView를 조작하는것 같음
 
-
-Copy
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
   <!-- 첫 번째 이미지와 제목 -->
   <div style="text-align: center;">
