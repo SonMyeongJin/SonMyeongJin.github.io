@@ -1,5 +1,5 @@
 ---
-title:  "[Java] RestController"
+title:  "[Spring] RestController"
 categories: [Backend,Java]
 tags:
   [
