@@ -6,7 +6,8 @@ tags:
     swift,
     ios,
     swiftUI
-  ] 
+  ]
+image: "/assets/img/title/swift2.png" 
 ---
 
 ## Testing System

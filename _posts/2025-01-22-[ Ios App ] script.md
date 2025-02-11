@@ -5,7 +5,7 @@ tags:
   [ios,
   swift,
   ] 
-published: true
+image: "/assets/img/title/ios.png"
 ---
 
 ## 테스트용 DB

@@ -9,6 +9,7 @@ tags:
     json,
     dataBase
   ] 
+image: "/assets/img/title/swift2.png"
 ---
 
 # SwiftData

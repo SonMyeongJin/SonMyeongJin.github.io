@@ -9,6 +9,7 @@ tags:
     list,
     forEach
   ] 
+image: "/assets/img/title/swift2.png"
 ---
 # List 와 ForEach 
 

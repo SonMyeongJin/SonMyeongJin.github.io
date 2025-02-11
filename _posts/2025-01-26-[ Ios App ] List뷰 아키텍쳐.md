@@ -5,7 +5,7 @@ tags:
   [ios,
   swift,
   ] 
-published: true
+image: "/assets/img/title/ios.png"
 ---
 
 ###  NavigationStack 을 이용해

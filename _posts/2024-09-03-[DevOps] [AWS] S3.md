@@ -7,6 +7,7 @@ tags:
     AWS,
     S3
   ] 
+image: "/assets/img/title/s3.png"
 ---
 
 # AWS S3(Simple Storage Service)란?

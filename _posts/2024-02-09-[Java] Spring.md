@@ -6,6 +6,7 @@ tags:
     spring,
     java
   ] 
+image: "/assets/img/title/java.png" 
 ---
 
 ## 스프링

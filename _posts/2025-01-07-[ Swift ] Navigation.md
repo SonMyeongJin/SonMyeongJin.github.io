@@ -11,6 +11,7 @@ tags:
     navigationLink,
     navigationStack
   ] 
+image: "/assets/img/title/swift2.png"
 ---
 
 # NavigationView -> NavigationStack

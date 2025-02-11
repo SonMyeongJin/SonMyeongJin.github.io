@@ -7,6 +7,7 @@ tags:
     ios,
     dictionary
   ] 
+image: "/assets/img/title/swift2.png"
 ---
 
 자바의 Map 배열과 유사

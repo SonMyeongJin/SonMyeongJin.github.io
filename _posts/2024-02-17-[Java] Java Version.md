@@ -6,6 +6,7 @@ tags:
     java,
     version
   ] 
+image: "/assets/img/title/java.png" 
 ---
 
 ## Java 8

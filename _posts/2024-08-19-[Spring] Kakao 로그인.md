@@ -9,6 +9,7 @@ tags:
     login,
     Thymeleaf
   ] 
+image: "/assets/img/title/spring.png"
 ---
 # 사전작업
 1. 카카오 로그인 API REST API KEY 발급받기

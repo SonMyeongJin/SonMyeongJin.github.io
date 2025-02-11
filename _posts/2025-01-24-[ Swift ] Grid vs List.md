@@ -9,6 +9,7 @@ tags:
     list,
     grid
   ] 
+image: "/assets/img/title/swift2.png"
 ---
 
 # Grid vs List

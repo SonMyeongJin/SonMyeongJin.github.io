@@ -5,7 +5,7 @@ tags:
   [ios,
   swift,
   ] 
-published: true
+image: "/assets/img/title/ios.png"
 ---
 
 유튜브 영상을 가져오는 방법으로 SwiftUI 에서 WebKit을 사용하여 구현하였더니 문제가 생겼다. 

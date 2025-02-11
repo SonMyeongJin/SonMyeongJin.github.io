@@ -10,6 +10,7 @@ tags:
     observable,
     environment
   ] 
+image: "/assets/img/title/swift2.png"
 ---
 
 SwiftUI 의 상태 프로퍼티를 사용하면 기본 데이터의 변경에 따른 처리 코드를 작성하지 않아도 뷰가 업데이트 된다.

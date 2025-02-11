@@ -7,4 +7,5 @@ tags:
     AWS,
     EC2
   ] 
+image: "/assets/img/title/ec2.png"
 ---

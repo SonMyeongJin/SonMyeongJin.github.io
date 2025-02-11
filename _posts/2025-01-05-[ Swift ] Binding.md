@@ -9,6 +9,7 @@ tags:
     state,
     binding
   ] 
+image: "/assets/img/title/swift2.png"
 ---
 
 ## 바인딩

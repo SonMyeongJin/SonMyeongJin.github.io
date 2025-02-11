@@ -11,6 +11,7 @@ tags:
     enum,
     mvvvm
   ] 
+image: "/assets/img/title/ios.png"
 ---
 
 * ; 세미클론 생략가능 
