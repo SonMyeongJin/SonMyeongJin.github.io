@@ -33,4 +33,19 @@ tags:
 * 실시간 검색, 사용자 맞춤 데이터 제공 같은 구현을 안함
 * 데이터 한번 저장하면 수정할 일이 없음
 
+## Request - Response
 
+* URL 을 통한 Get 방식으로 요청
+* JSON 형식으로 응답
+
+    > ### ScriptListView 
+    |요청|응답|
+    |------|---|
+    |GET /api/list/BTS|[{ "title": "Test Video1", "artist": "BTS", "youtube_url": "..." }, { "title": "Test Video2", "artist": "BTS", "youtube_url": "..." }]|
+
+    
+    > ### DetailPageView
+    
+    |요청|응답|
+    |------|---|
+    |GET /api/script/json?fileName=BTS_test1.json|{ "title": "Test Video1", "artist": "BTS", "youtube_url": "...", "script_KOR": "...", "script_JPN": "..." }|
