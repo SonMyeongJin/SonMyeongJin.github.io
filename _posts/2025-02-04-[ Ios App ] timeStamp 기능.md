@@ -5,7 +5,7 @@ tags:
   [ios,
   swift,
   ] 
-image: "/assets/img/title/ios.png"
+image: "/assets/img/Feb-04-2025 23-07-22.gif"
 ---
 
 Script에서 타임스탬프를 누르면 해당 시간대로 유튜브 재생하는 기능을 추가

@@ -8,7 +8,7 @@ tags:
   S3,
   aws
   ] 
-image: "/assets/img/title/ios.png"
+image: "/assets/img/title/s3.png"
 ---
 
 >> 아티스트명.json 으로 구현 시
