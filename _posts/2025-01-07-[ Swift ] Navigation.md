@@ -1,5 +1,5 @@
 ---
-title:  "[ Swift ] SwftUI - Navigation"
+title:  "[Swift] SwftUI - Navigation"
 categories: [Ios , Swift ]
 tags:
   [

@@ -1,5 +1,5 @@
 ---
-title: "[ Swift ] List와 ForEach"
+title: "[Swift] List와 ForEach"
 categories: [Ios , Swift ]
 tags:
   [

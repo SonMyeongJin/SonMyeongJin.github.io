@@ -1,5 +1,5 @@
 ---
-title: "[ Swift ] Dictionary"
+title: "[Swift] Dictionary"
 categories: [Ios , Swift ]
 tags:
   [

@@ -1,5 +1,5 @@
 ---
-title: "[ Swift ] SwiftData"
+title: "[Swift] SwiftData"
 categories: [Ios , Swift ]
 tags:
   [

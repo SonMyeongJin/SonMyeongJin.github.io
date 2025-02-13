@@ -1,5 +1,5 @@
 ---
-title: "[ Swift ] sheet 팝업창"
+title: "[Swift] sheet 팝업창"
 categories: [Ios , Swift ]
 tags:
   [

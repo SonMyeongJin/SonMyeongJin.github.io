@@ -1,5 +1,5 @@
 ---
-title: "[ Swift ] List와 VStack"
+title: "[Swift] List와 VStack"
 categories: [Ios , Swift ]
 tags:
   [

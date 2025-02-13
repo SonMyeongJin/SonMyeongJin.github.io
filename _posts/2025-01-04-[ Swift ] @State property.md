@@ -1,5 +1,5 @@
 ---
-title: "[ Swift ] @State @Observable @Environment"
+title: "[Swift] @State @Observable @Environment"
 categories: [Ios , Swift ]
 tags:
   [

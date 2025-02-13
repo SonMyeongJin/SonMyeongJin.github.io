@@ -1,5 +1,5 @@
 ---
-title: "[ Swift ] SwiftUI"
+title: "[Swift] SwiftUI"
 categories: [Ios , Swift ]
 tags:
   [

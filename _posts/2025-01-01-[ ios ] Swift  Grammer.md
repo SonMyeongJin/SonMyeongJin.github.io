@@ -1,5 +1,5 @@
 ---
-title:  "[ Swift ] Swift Grammer"
+title:  "[Swift] Swift Grammer"
 categories: [Ios , Swift ]
 tags:
   [

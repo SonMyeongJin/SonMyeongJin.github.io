@@ -1,5 +1,5 @@
 ---
-title: "[ Swift ] List와 VS Grid"
+title: "[Swift] List와 VS Grid"
 categories: [Ios , Swift ]
 tags:
   [

@@ -1,5 +1,5 @@
 ---
-title: "[ Swift ] Binding"
+title: "[Swift] Binding"
 categories: [Ios , Swift ]
 tags:
   [
