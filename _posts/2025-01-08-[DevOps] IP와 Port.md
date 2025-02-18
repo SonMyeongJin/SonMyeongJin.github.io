@@ -1,5 +1,5 @@
 ---
-title:  "[DevOps] CI/CD 파이프라인 구축"
+title:  "[DevOps] IP와 Port 개념"
 categories: [Backend,DevOps]
 tags:
   [
