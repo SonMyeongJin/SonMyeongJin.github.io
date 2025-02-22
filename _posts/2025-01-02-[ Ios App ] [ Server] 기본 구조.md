@@ -40,6 +40,7 @@ image: "/assets/img/title/ios.png"
 * JSON 형식으로 응답
 
     > ### ScriptListView 
+    
     |요청|응답|
     |------|---|
     |GET /api/list/BTS|[{ "title": "Test Video1", "artist": "BTS", "youtube_url": "..." }, { "title": "Test Video2", "artist": "BTS", "youtube_url": "..." }]|
