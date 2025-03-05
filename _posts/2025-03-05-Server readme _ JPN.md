@@ -28,7 +28,7 @@ http://43.203.118.99:3000/
     2. MySQLとRailsプロジェクトの接続
     3. ERDデータに基づくモデルの定義 (属性)
     4. API明細書作成
-        - [API Notion URL](https://son-myeongjin.notion.site/datax-project-api?v=1aa07b1a3de181e38b81000cf2237f46)
+        - ### [API Notion URL](https://son-myeongjin.notion.site/datax-project-api?v=1aa07b1a3de181e38b81000cf2237f46)
 
         - ![](/assets/img/posts/post/datax_notion.png)
     5. JWTトークンを使用したログイン機能の実装

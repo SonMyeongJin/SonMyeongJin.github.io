@@ -28,7 +28,7 @@ http://43.203.118.99:3000/
     2. Mysql을 통한 Rails 프로젝트와 DB 연결
     3. ERD 데이터의 Model 작성 ( 속성값 )
     5. API명세서 작성
-         - [Notion](https://son-myeongjin.notion.site/datax-project-api?v=1aa07b1a3de181e38b81000cf2237f46)
+         - ### [Notion](https://son-myeongjin.notion.site/datax-project-api?v=1aa07b1a3de181e38b81000cf2237f46)
 
         - ![](/assets/img/posts/post/datax_notion.png)
     5. 로그인기능 + JWT 토큰방식 구현
