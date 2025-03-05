@@ -59,4 +59,4 @@ http://54.180.239.200
 
 - 모바일버전 UI
     - 화면이 768px 이하로 작아지면 메뉴바가 모바일에 맞추어 변형됩니다.
-    - ![](/assets/img/posts/post/datax_mobile.gif)
+   

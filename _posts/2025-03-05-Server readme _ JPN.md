@@ -28,7 +28,7 @@ http://43.203.118.99:3000/
     2. MySQLとRailsプロジェクトの接続
     3. ERDデータに基づくモデルの定義 (属性)
     4. API明細書作成
-        - [Notion](https://son-myeongjin.notion.site/datax-project-api?v=1aa07b1a3de181e38b81000cf2237f46)
+        - [API Notion URL](https://son-myeongjin.notion.site/datax-project-api?v=1aa07b1a3de181e38b81000cf2237f46)
 
         - ![](/assets/img/posts/post/datax_notion.png)
     5. JWTトークンを使用したログイン機能の実装
@@ -63,12 +63,16 @@ http://43.203.118.99:3000/
 
 - タグ機能
     - タグの作成
-        記事作成時にタグを追加可能
+        - 記事作成時にタグを追加可能
         既存のタグがある場合、そのIDを返し、新規タグの場合は新しいIDを割り当てて返す
 
     - タグによるフィルタリング
-        GETリクエストでタグIDを指定すると、同じタグを持つ記事を配列で返す
+        - GETリクエストでタグIDを指定すると、同じタグを持つ記事を配列で返す
+
+    - ![](/assets/img/posts/post/datax_tag.jpeg)
 
 # 工夫したポイント
 - JTIを利用したセキュリティ強化
-  JWTトークンのみでログインを管理すると、ログアウト後もトークンが有効でアクセスが可能となるため、JTIを導入。JTIによりトークンの拒否が可能になり、セキュリティを強化しました。
+   - JWTトークンのみでログインを管理すると、ログアウト後もトークンが有効でアクセスが可能となるため、JTIを導入。JTIによりトークンの拒否が可能になり、セキュリティを強化しました。
+
+- ![](/assets/img/posts/post/datax_login.jpeg)

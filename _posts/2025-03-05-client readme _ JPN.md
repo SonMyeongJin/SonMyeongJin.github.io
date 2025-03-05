@@ -59,3 +59,4 @@ http://54.180.239.200
 
 - モバイル版UI
     - 画面サイズが768px以下の場合、メニューバーがモバイル向けのデザインに変更。
+     - ![](/assets/img/posts/post/datax_mobile.gif)
