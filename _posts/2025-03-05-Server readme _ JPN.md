@@ -1,8 +1,8 @@
 # プロジェクト概要
 このプロジェクトは、Ruby on RailsとVue.jsを使用して実装されたブログプラットフォームです。ユーザー認証、記事管理、検索フィルタリングなどの機能を含みます。
 
-[Client]
-https://github.com/SonMyeongJin/DataX_Project_Client
+[Client Github](https://github.com/SonMyeongJin/DataX_Project_Client)
+
 
 [APIデプロイ済み]
 http://43.203.118.99:3000/
@@ -27,12 +27,14 @@ http://43.203.118.99:3000/
     1. ERDの作成
     2. MySQLとRailsプロジェクトの接続
     3. ERDデータに基づくモデルの定義 (属性)
-    4. JWTトークンを使用したログイン機能の実装
+    4. API明細書作成
+        - [Notion](https://son-myeongjin.notion.site/datax-project-api?v=1aa07b1a3de181e38b81000cf2237f46)
+    5. JWTトークンを使用したログイン機能の実装
         - RailsのDeviseライブラリを使用
-    5. 記事の作成・削除・編集のロジックを実装
-    6. タグ機能の実装
-    7. AWSを利用したデプロイ
-    8. Vueクライアントとの連携
+    6. 記事の作成・削除・編集のロジックを実装
+    7. タグ機能の実装
+    8. AWSを利用したデプロイ
+    9. Vueクライアントとの連携
 
 # 実装した機能
 

@@ -24,14 +24,17 @@ HTTP 방식으로 요청을 받으면 HTTP Body에 JSON형식으로 담아서 �
 
 - 개발 플로우
     1. ERD 작성
+        - ![](/assets/img/posts/post/datax_erd.png)
     2. Mysql을 통한 Rails 프로젝트와 DB 연결
     3. ERD 데이터의 Model 작성 ( 속성값 )
-    4. 로그인기능 + JWT 토큰방식 구현
+    5. API명세서 작성
+         - [Notion](https://son-myeongjin.notion.site/datax-project-api?v=1aa07b1a3de181e38b81000cf2237f46)
+    5. 로그인기능 + JWT 토큰방식 구현
         - Rails의 Devise 라이브러리 이용.
-    5. 글작성,삭제,수정 로직 구현 
-    6. 태그 기능 구현
-    7. AWS 를 통한 배포 
-    8. Vue 클라이언트와 연동
+    6. 글작성,삭제,수정 로직 구현 
+    7. 태그 기능 구현
+    8. AWS 를 통한 배포 
+    9. Vue 클라이언트와 연동
 
 # 実装した機能の説明
 
@@ -64,7 +67,11 @@ HTTP 방식으로 요청을 받으면 HTTP Body에 JSON형식으로 담아서 �
     - Filtering with tags
     Get 방식으로 태그의 Id값을 요청 받으면 같은 태그의 글들을 배열로 반환합니다.
 
+    - ![](/assets/img/posts/post/datax_tag.jpeg)
+
 
 # 任意で工夫したポイント
 - 로그인시 보안을 위한 JTI
 JWT 토큰만 이용하여 로그인을 구현할 경우 로그아웃 한 뒤에도 토큰은 유효하여 접근이 가능하다는 점을 생각했습니다. 따라서 JTI 방식을 이용해 JWT 토큰을 거부할수있도록 추가적인 보안에 신경썼습니다. 
+
+- ![](/assets/img/posts/post/datax_login.jpeg)

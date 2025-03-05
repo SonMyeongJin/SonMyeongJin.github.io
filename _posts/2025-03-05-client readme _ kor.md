@@ -12,8 +12,8 @@
 # プロジェクトの概要
 이 프로젝트는 Ruby on Rails와 Vue.js를 사용하여 구현된 블로그 플랫폼입니다. 사용자 인증, 기사 관리, 검색 필터링 등의 기능을 포함합니다.
 
-[Server]
-https://github.com/SonMyeongJin/DataX_Project_Server-
+[Server Github](https://github.com/SonMyeongJin/DataX_Project_Server-)
+
 
 [배포중]
 http://54.180.239.200
@@ -46,7 +46,7 @@ http://54.180.239.200
 
 - 글 수정,삭제 버튼 작성자에게만 활성화
     - 로그인시 상태의 user_id 값과 글 작성자의 user_id 값이 같아야 수정,삭제 버튼이 보이도록 구현했습니다.
-    - 사진 -
+    - ![](/assets/img/posts/post/datax_post.jpeg)
 
 - Category 및 검색박스로 검색기능
     - PostList 페이지에서 카테고리를 선택하면 같은 카테고리의 글들을 필터링합니다
@@ -58,4 +58,5 @@ http://54.180.239.200
     ex) 태그1,태그2 -> ["태그1", "태그2"]
 
 - 모바일버전 UI
-    화면이 768px 이하로 작아지면 메뉴바가 모바일에 맞추어 변형됩니다.
+    - 화면이 768px 이하로 작아지면 메뉴바가 모바일에 맞추어 변형됩니다.
+    - ![](/assets/img/posts/post/datax_mobile.gif)

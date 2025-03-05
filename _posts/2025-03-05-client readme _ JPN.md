@@ -12,8 +12,8 @@
 # プロジェクト概要
 このプロジェクトは、Ruby on RailsとVue.jsを使用して実装されたブログプラットフォームです。ユーザー認証、記事管理、検索フィルタリングなどの機能を含みます。
 
-[Server]
-https://github.com/SonMyeongJin/DataX_Project_Server-
+[Server Github](https://github.com/SonMyeongJin/DataX_Project_Server-)
+
 
 [デプロイ済み]
 http://54.180.239.200
@@ -46,6 +46,7 @@ http://54.180.239.200
 
 - 記事の編集・削除ボタンは作成者のみ有効
     - ログインユーザーのuser_idと記事作成者のuser_idが一致する場合のみ、編集・削除ボタンが表示されるように実装。
+    - ![](/assets/img/posts/post/datax_post.jpeg)
 
 - カテゴリーおよび検索ボックスを利用した検索機能
     - PostListページでカテゴリーを選択すると、同じカテゴリーの記事がフィルタリングされます。
