@@ -1,3 +1,15 @@
+---
+title:  "[Server - Readme(KOR)] DataX Project "
+categories: [Project, Personal]
+tags:
+  [ruby,
+  rails,
+  aws,
+  mysql,
+  ] 
+image: "/assets/img/title/ruby.png"
+---
+
 # プロジェクトの概要
 이 프로젝트는 Ruby on Rails와 Vue.js를 사용하여 구현된 블로그 플랫폼입니다. 사용자 인증, 기사 관리, 검색 필터링 등의 기능을 포함합니다.
 

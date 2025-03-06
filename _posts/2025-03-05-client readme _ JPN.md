@@ -1,3 +1,15 @@
+---
+title:  "[Client - Readme(JPN)] DataX Project "
+categories: [Project, Personal]
+tags:
+  [node.js,
+  vue.js,
+  aws,
+  ngnix,
+  ] 
+image: "/assets/img/title/vue.png"
+---
+
 # -- Cors エラー未解決 -- 
 サーバー側でまだCorsエラーが解決されていないため、Corsチェックを行わないブラウザでのみアクセス可能です。
 

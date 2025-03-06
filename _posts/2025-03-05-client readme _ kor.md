@@ -1,3 +1,15 @@
+---
+title:  "[Client - Readme(KOR)] DataX Project "
+categories: [Project, Personal]
+tags:
+  [node.js,
+  vue.js,
+  aws,
+  ngnix,
+  ] 
+image: "/assets/img/title/vue.png"
+---
+
 # -- Cors error 미해결 -- 
 아직 서버와 Cors error 해결이 안되어 Cors 확인 없는 브라우저에서 접속확인 가능합니다.
 
