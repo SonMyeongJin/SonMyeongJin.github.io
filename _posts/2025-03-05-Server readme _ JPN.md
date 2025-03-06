@@ -1,5 +1,5 @@
 ---
-title:  "[Server - Readme(KOR)] DataX Project "
+title:  "[Server - Readme(JPN)] DataX Project "
 categories: [Project, Personal]
 tags:
   [ruby,
