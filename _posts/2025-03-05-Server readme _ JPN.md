@@ -37,6 +37,7 @@ http://43.203.118.99:3000/
 
 - 開発フロー
     1. ERDの作成
+        - ![](/assets/img/posts/post/datax_erd.png)
     2. MySQLとRailsプロジェクトの接続
     3. ERDデータに基づくモデルの定義 (属性)
     4. API明細書作成
