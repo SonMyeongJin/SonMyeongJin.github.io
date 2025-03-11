@@ -10,7 +10,7 @@ tags:
 image: "/assets/img/title/vue.png"
 ---
 
-# -- Cors error 미해결 -- 
+# ~~-- Cors error 미해결 --~~ 25.03.10 해결완료
 아직 서버와 Cors error 해결이 안되어 Cors 확인 없는 브라우저에서 접속확인 가능합니다.
 
 [ Safari 개발자 모드에서 CORS 비활성화 하는법 ]
@@ -21,7 +21,7 @@ image: "/assets/img/title/vue.png"
 3. 개발자 메뉴에서 CORS 비활성화
     * 메뉴 바에서 "개발(Develop) → 모든 크로스 오리진 제한 비활성화(Disable Cross-Origin Restrictions)" 클릭Restrictions)" 클릭
 
-# プロジェクトの概要
+# 프로젝트 개요
 이 프로젝트는 Ruby on Rails와 Vue.js를 사용하여 구현된 블로그 플랫폼입니다. 사용자 인증, 기사 관리, 검색 필터링 등의 기능을 포함합니다.
 
 [Server Github](https://github.com/SonMyeongJin/DataX_Project_Server-)
@@ -30,13 +30,13 @@ image: "/assets/img/title/vue.png"
 [배포중]
 http://54.180.239.200
 
-## 開発環境
+## 개발환경
 - Development Environment: macOS
 - node.js : 23.9.0
 - vue.js : 3.5.13
 - Deploy : AWS EC2 , ngnix
 
-# プロジェクトのセットアップ手順
+# 프로젝트 셋업 
 
 - 개발 플로우
     1. JWT 토큰 사용을 위해 Axios를 우선 설정
@@ -50,7 +50,7 @@ http://54.180.239.200
     9. AWS,Nginx 를 통한 배포 
     10. Rails 서버와 연결
 
-# 実装した機能の説明
+# 구현한 기능 설명
 
 - 로그인 로그아웃 상태
     - 로그인 로그아웃 상태에 따라 보여지는 화면이 다릅니다.
