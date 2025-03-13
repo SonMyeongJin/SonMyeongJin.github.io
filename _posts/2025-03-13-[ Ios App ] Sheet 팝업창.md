@@ -8,7 +8,7 @@ tags:
     swiftUI,
     sheet,
   ] 
-image: "/assets/img/posts/post/Mar-13-2025%2022-31-51.gif"
+image: "/assets/img/posts/post/Mar-13-2025 22-51-59"
 ---
 
 # 기능 설명
