@@ -54,11 +54,11 @@ DBak 서비스가 영상을 검색하는 방식이 아닌 개발자인 내가 �
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div style="text-align: center;">
-    <img src="/assets/img/posts/post/IMG_6096.PNG" width="400" />
+    <img src="/assets/img/posts/post/IMG_6096.PNG" width="200" />
     <p>신청 메세지 작성</p>
   </div>
   <div style="text-align: center;">
-    <img src="/assets/img/posts/post/IMG_6097.PNG" width="400" />
+    <img src="/assets/img/posts/post/IMG_6097.PNG" width="200" />
     <p>메일 앱 호출 후 자동으로 입력</p>
   </div>
 </div>
