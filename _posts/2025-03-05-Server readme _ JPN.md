@@ -16,7 +16,7 @@ image: "/assets/img/title/ruby.png"
 [Client Github](https://github.com/SonMyeongJin/DataX_Project_Client)
 
 
-[APIデプロイ済み]
+~~[APIデプロイ済み]~~
 http://43.203.118.99:3000/
 - リクエストはHTTPで受信され、レスポンスはJSON形式でHTTP Bodyに含まれて返されます。
 

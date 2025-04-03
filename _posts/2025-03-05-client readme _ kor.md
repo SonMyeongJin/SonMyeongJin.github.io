@@ -27,7 +27,7 @@ image: "/assets/img/title/vue.png"
 [Server Github](https://github.com/SonMyeongJin/DataX_Project_Server-)
 
 
-[배포중]
+~~[배포중]~~
 http://54.180.239.200
 
 ## 개발환경

@@ -15,7 +15,7 @@ image: "/assets/img/title/ruby.png"
 
 [Client Github](https://github.com/SonMyeongJin/DataX_Project_Client)
 
-[API 방식으로 배포중]
+~~[API 방식으로 배포중]~~
 http://43.203.118.99:3000/
 - HTTP 방식으로 요청을 받으면 HTTP Body에 JSON형식으로 담아서 응답한다.
 
