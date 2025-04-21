@@ -72,3 +72,19 @@ http://54.180.239.200
 - モバイル版UI
     - 画面サイズが768px以下の場合、メニューバーがモバイル向けのデザインに変更。
      - ![](/assets/img/posts/post/datax_mobile.gif)
+
+--------------------------------------------------
+
+# PreView
+
+- createView
+![](/assets/img/posts/post/createView.png)
+- detailViewLogin
+![](/assets/img/posts/post/detailViewLogin.png)
+- detailViewLogout
+![](/assets/img/posts/post/detailViewLogout.png)
+- clicktag
+![](/assets/img/posts/post/clicktag.png)
+- listView
+![](/assets/img/posts/post/listView.png)
+
