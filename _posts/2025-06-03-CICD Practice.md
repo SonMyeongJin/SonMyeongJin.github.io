@@ -1,8 +1,12 @@
 ---
 title: "[DevOps] 실제 CI/CD 파이프라인 구현 실습"
-date: 2025-06-03 10:00:00 +0900
-categories: [DevOps, CICD]
-tags: [DevOps, CICD, GitHub Actions, Docker, AWS, EC2, Pipeline]
+categories: [Backend,DevOps]
+tags:
+  [
+    DevOps,
+    AWS,
+    CI/CD,
+  ] 
 ---
 
 ## 🚀 실제 CI/CD 파이프라인 흐름
