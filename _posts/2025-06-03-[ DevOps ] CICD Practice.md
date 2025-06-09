@@ -1,5 +1,5 @@
 ---
-title: "[DevOps] 실제 CI/CD 파이프라인 구현 실습"
+title: "[CI/CD] 실제 CI/CD 파이프라인 구현 실습"
 categories: [Backend,DevOps]
 tags:
   [
