@@ -1,5 +1,5 @@
 ---
-title: "[CI/CD] Docker로 Spring BOot 프로젝트 EC2 배포"
+title: "[CI/CD] Docker로 Spring boot 프로젝트 EC2 배포"
 categories: [Backend,DevOps]
 tags:
   [
