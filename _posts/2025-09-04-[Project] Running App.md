@@ -2,6 +2,7 @@
 title:  "[Running App] 어플 기본 설계"
 categories: [Project, Personal]
 tags: [iOS, Swift, SwiftUI, CoreLocation, HealthKit, watchOS]
+image: "/assets/image/9-8/1.gif"
 ---
 
 사용자의 러닝을 좀 더 적극적으로 재미있게 하기 위해서 캐릭터를 키우면서 러닝을 하는 앱이다. 사용자는 러닝을 통해 캐릭터의 체중을 관리하고 목표 달성을 통해 추가 기능을 이용할 수 있게 한다. 위치 기반을 통해 매일 적당한 러닝 거리를 채우며 캐릭터의 건강도 관리하고 사용자 본인의 운동욕구도 북돋기 위함이다.
