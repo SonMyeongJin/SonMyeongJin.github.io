@@ -26,7 +26,9 @@ tags: [iOS, Swift, SwiftUI, CoreLocation, HealthKit, watchOS]
 
 - 자동 이벤트
   - 움직임 감지시 운동화면 전환
+  ![](/assets/image/9-8/2.gif)
   - 수면 감지시 수면화면 전환
+  ![](/assets/image/9-8/1.gif)
   - 운동 장시간 휴식시 캐릭터 체중 증가
 - 수동 이벤트
   - 사용자가 버튼을 눌러 캐릭터에게 음식 먹이기
