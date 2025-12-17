@@ -4,6 +4,7 @@ title: "[ Data Structure ] Stack & Heap"
 date: 2025-12-17 00:00:00 +0900
 categories: [CS, Data Structure]
 tags: [memory, stack, heap, pointer, leak]
+mermaid: true
 ---
 
 > 스택은 자동 메모리, 힙은 자유 저장소. 스택에는 힙 데이터의 "주소(포인터)"만 저장된다. 따라서 메모리 누수를 막으려면, 힙에 올린 데이터는 더 이상 쓸 일이 없을 때 `free()`로 해제해야 한다.
@@ -14,25 +15,25 @@ tags: [memory, stack, heap, pointer, leak]
 
 ```mermaid
 flowchart TB
-    subgraph Process Memory
-        code[Code (텍스트 섹션)]
-        bss[BSS/데이터 (전역/정적)]
-        subgraph Stack(스택: 자동 메모리)
+    subgraph Process_Memory
+        code[Code 텍스트 섹션]
+        bss[BSS/데이터 전역/정적]
+        subgraph Stack_자동_메모리
             S1[지역 변수]
             S2[리턴 주소]
-            S3[포인터 변수 (힙 주소 보관)]
+            S3[포인터 변수 힙 주소 보관]
         end
-        subgraph Heap(힙: 자유 저장소)
+        subgraph Heap_자유_저장소
             H1[동적 객체/버퍼]
             H2[리스트/트리/맵 노드]
         end
     end
 
     code --- bss
-    bss --- Stack
-    Stack --- Heap
+    bss --- Stack_자동_메모리
+    Stack_자동_메모리 --- Heap_자유_저장소
 
-    S3 -- "주소(포인터)" --> H1
+    S3 -- "주소 포인터" --> H1
 ```
 
 핵심 포인트
@@ -42,34 +43,34 @@ flowchart TB
 
 ## 스택과 힙의 상호작용
 
-스택 변수(포인터)가 힙 객체를 가리키는 전형적인 구조:
+스택 변수 포인터가 힙 객체를 가리키는 전형적인 구조:
 
 ```mermaid
 sequenceDiagram
-    participant Func as 함수(스택 프레임)
-    participant Heap as 힙(자유 저장소)
+    participant Func as 함수 스택 프레임
+    participant Heap as 힙 자유 저장소
 
-    Func->>Heap: 동적 할당 (예: malloc/new)
+    Func->>Heap: 동적 할당 예 malloc/new
     Note right of Heap: 힙에 실제 데이터가 생성됨
-    Func-->>Func: 스택에 "힙의 주소"(포인터) 저장
-    Func->>Func: 데이터 사용 (포인터로 접근)
+    Func-->>Func: 스택에 힙의 주소 포인터 저장
+    Func->>Func: 데이터 사용 포인터로 접근
     Func->>Heap: 더 이상 필요 없으면 free/delete
     Note right of Heap: 힙 메모리 반납, 누수 방지
 ```
 
-- 함수 ��부에서 포인터(스택)는 사라질 수 있지만, 힙 객체는 남아 있을 수 있다. 포인터가 사라지기 전에 반드시 힙 객체를 해제해야 누수가 없다.
+- 함수 내부에서 포인터 스택는 사라질 수 있지만, 힙 객체는 남아 있을 수 있다. 포인터가 사라지기 전에 반드시 힙 객체를 해제해야 누수가 없다.
 - 포인터 복사본이 여럿이라면, 마지막 참조가 끝나는 시점에 정확히 한 번 해제해야 한다(이중 해제 방지).
 
 ## 메모리 누수, 왜 생길까?
 
-메모리 누수는 "힙에 있는 객체에 대한 모든 경로(포인터)가 사라졌는데, 힙 객체가 해제되지 않은 상태"를 말한다.
+메모리 누수는 "힙에 있는 객체에 대한 모든 경로 포인터가 사라졌는데, 힙 객체가 해제되지 않은 상태"를 말한다.
 
 ```mermaid
 flowchart LR
-    P1[포인터 A (스택)] --> H[힙 객체]
-    P2[포인터 B (스택)] --> H
-    P1 -. 소멸 .-> X1(( ))
-    P2 -. 소멸 .-> X2(( ))
+    P1[포인터 A 스택] --> H[힙 객체]
+    P2[포인터 B 스택] --> H
+    P1 -. 소멸 .-> X1((소멸))
+    P2 -. 소멸 .-> X2((소멸))
     H:::leak
 
     classDef leak fill:#ffdddd,stroke:#ff5555,stroke-width:2px;
@@ -90,7 +91,7 @@ flowchart LR
 
 - 스택: 자동, LIFO, 함수 종료 시 정리, 빠름, 크기 제한 존재.
 - 힙: 수동(또는 런타임 관리), 임의 수명, 상대적으로 느림, 파편화 가능.
-- 스택에는 주소(포인터)만, 힙에는 실제 데이터.
+- 스택에는 주소 포인터만, 힙에는 실제 데이터.
 
 ## 마무리 요약
 
@@ -99,4 +100,3 @@ flowchart LR
 - 메모리 누수를 막으려면 힙 객체는 반드시 사용 종료 시 `free()`/`delete`로 해제.
 
 > 추가로 원하는 예시(언어별 코드, 더 복잡한 구조 그림 등)가 있으면 알려주면 해당 형태로 확장해드릴게요.
-
