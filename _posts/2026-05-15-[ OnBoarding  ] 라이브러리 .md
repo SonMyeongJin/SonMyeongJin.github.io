@@ -1,6 +1,6 @@
 ---
 title: "[OnBoarding] 라이브러리"
-categories: [OnBoarding, Frontend]
+categories: [Frontend, OnBoarding]
 tags: [
   library,
   frontend,

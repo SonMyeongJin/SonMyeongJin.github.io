@@ -1,6 +1,6 @@
 ---
 title: "[OnBoarding] React"
-categories: [OnBoarding, Frontend]
+categories: [Frontend, OnBoarding]
 tags: [
   react,
   frontend,

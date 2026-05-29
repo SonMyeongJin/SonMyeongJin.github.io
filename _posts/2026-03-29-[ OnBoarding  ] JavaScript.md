@@ -1,6 +1,6 @@
 ---
 title: "[OnBoarding] JavaScript"
-categories: [OnBoarding, Frontend]
+categories: [Frontend, OnBoarding]
 tags: [
   javascript,
   frontend,

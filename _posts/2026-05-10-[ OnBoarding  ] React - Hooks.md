@@ -1,6 +1,6 @@
 ---
 title: "[OnBoarding] React Hooks"
-categories: [OnBoarding, Frontend]
+categories: [Frontend, OnBoarding]
 tags: [
   react,
   hooks,

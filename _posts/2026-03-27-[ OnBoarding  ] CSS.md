@@ -1,6 +1,6 @@
 ---
 title: "[OnBoarding] CSS"
-categories: [OnBoarding, Frontend]
+categories: [Frontend, OnBoarding]
 tags: [
   css,
   frontend,

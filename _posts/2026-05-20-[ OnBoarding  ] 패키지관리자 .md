@@ -1,6 +1,6 @@
 ---
 title: "[OnBoarding] 패키지 관리자"
-categories: [OnBoarding, CS]
+categories: [Frontend, OnBoarding]
 tags: [
   package-manager,
   npm,

@@ -1,6 +1,6 @@
 ---
 title: "[OnBoarding] HTML"
-categories: [OnBoarding, Frontend]
+categories: [Frontend, OnBoarding]
 tags: [
   html,
   frontend,
