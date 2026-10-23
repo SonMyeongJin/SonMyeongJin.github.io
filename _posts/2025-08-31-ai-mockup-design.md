@@ -1,0 +1,50 @@
+---
+title: "AI 이미지 생성으로 앱 목업 디자인하기 (Nano Banana)"
+categories: [AI, Tools]
+tags: [ai, gemini, nano-banana, mockup]
+redirect_from:
+  - "/posts/AI-이미지-생성으로-목업-디자인/"
+---
+
+이번 gemnini Ai 의 nano banana 모델이 이미지 생성을 잘한다고 해서 이 모델을 이용해서 어플 목업이미지를 만들고 개발을 하보려고 한다.
+
+사용할 ai는 gmenini 의 nanobanana 모델과 개발에는 gpt5 의 thinking high 모델을 사용해보려고 한다. 
+지금까지 gmenini 2.5 pro 도 성능이 워낙 뛰어나서 감탄하면서 개발했었는데 이번에 gpt5가 그걸 넘어섰다고 하니 개발하면서 느껴보도록하겠다.
+
+<!--more-->
+
+<style>
+.img-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin: 8px 0 24px;
+}
+.img-row img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+@media (max-width: 768px) {
+  .img-row { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 480px) {
+  .img-row { grid-template-columns: 1fr; }
+}
+</style>
+
+## 1. 스케치로 목업디자인을 대략적으로 디자인해봤다.
+
+<div class="img-row">
+  <img src="/assets/img/posts/2025-08-31-ai-mockup-design/01-sketch-1.jpeg" alt="스케치 1">
+  <img src="/assets/img/posts/2025-08-31-ai-mockup-design/02-sketch-2.jpeg" alt="스케치 2">
+  <img src="/assets/img/posts/2025-08-31-ai-mockup-design/03-sketch-3.jpeg" alt="스케치 3">
+</div>
+
+## 2. Ai studio를 통해 nano banana model 로 실제 어플 이미지로 어떤 느낌일지 변환해보았다.
+
+<div class="img-row">
+  <img src="/assets/img/posts/2025-08-31-ai-mockup-design/04-result-1.jpeg" alt="결과 1">
+  <img src="/assets/img/posts/2025-08-31-ai-mockup-design/05-result-2.jpeg" alt="결과 2">
+  <img src="/assets/img/posts/2025-08-31-ai-mockup-design/06-result-3.jpeg" alt="결과 3">
+</div>

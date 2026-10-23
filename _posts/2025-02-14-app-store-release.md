@@ -1,0 +1,142 @@
+---
+title: "App Store에 앱 출시하기 (App Store Connect)"
+categories: [iOS, App Store]
+tags: [app-store, app-store-connect, release]
+redirect_from:
+  - "/posts/ios-앱스토어-출시/"
+image: "/assets/img/title/store.png"
+---
+
+## 1. Appstore Connect 접속
+```
+https://appstoreconnect.apple.com/
+ ```
+
+## 2. 신규클릭 > 기본정보 입력 > 생성
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="/assets/img/posts/2025-02-14-app-store-release/01-new-app.png" width="400" />
+</div>
+
+- 플랫폼 : ios
+- 이름 : 앱이름
+- 기본 언어 : 한국어
+- 번들 ID : 
+    * 해당 계정에 연결된 번들 ID 목록이 보이며, 업로드할 번들 ID를 선택.
+    * (없다면, '인증서,식별자 및 프로파일'을 클릭하여 새로 생성)
+- SKU :
+    * 임의의 일련번호(개발자 마음대로 만들면 됨/ 앱스토어에 보여지지 않는 앱 고유ID)
+- 사용자 엑세스 권한 : 전체 엑세스 선택.
+
+## 3. 생성된 앱 클릭 > 정보입력
+
+1) 앱 미리보기 및 스크린샷
+- 미리보기 (선택사항)
+    - 스크린샷
+        - iPhone(2가지 필수)
+            - 6.9형 디스플레이
+                * 1320 × 2868px
+                * 2868 × 1320px 
+                * 1290 × 2796px 
+                * 2796 × 1290px
+            - 6.5형 디스플레이
+                * 1242 × 2688px
+                * 2688 × 1242px
+                * 1284 × 2778px 
+                * 2778 × 1284px
+        - iPad (선택)
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="/assets/img/posts/2025-02-14-app-store-release/02-app-screenshots.png" width="800" />
+</div>
+
+2) 프로모션 텍스트
+    * 스크린샷 아래 바로 보여지는 문구.
+    * 앱 소개 또는 앱 관련 중요 문구 넣기
+
+3) 설명
+    * 프로모션 텍스트 아래 '더보기'버튼을 누르면 보여지는 문구
+    * 앱 관련 설명 넣기
+
+4) 키워드
+    * 앱스토어 검색 시, 사용될 앱 관련 키워드
+5) 지원 URL
+    * 앱 관련 지원 URL 입력
+    * 회사 홈페이지, 앱 개발 관련 사이트, 개인블로그 등
+6) 마케팅 URL (선택사항)
+7) 버전
+    * 앱 버전
+8) 저작권
+    * 앱 저작권 (Ex 해당년도 + 회사이름)
+9) 라우팅 앱 적용 범위 파일 (선택사항)
+
+10) 빌드
+![](/assets/img/posts/2025-02-14-app-store-release/03-build.png)
+- XCode > 앱 `Archive` 하면 빌드 영역에 앱 빌드 데이터가 보여진다
+
+11) 앱 심사 정보
+- 로그인 정보
+    - 로그인이 필요한 앱이라면, `로그인필요`에 체크한 후, 해당 정보를 입력한다
+- 연락처 정보 (개발자/화사)
+    - 핸드폰 번호의 경우, 국가코드도 함께 임력해주어야 한다.
+    -  Ex) +82 10-1234-5678
+- 메모
+    - 앱 심사 시, 필요한 추가적인 앱 관련 정보를 입력한다(필수X)
+- 첨부파일(선택사항)
+    - 앱 심사에 도움이 되는 앱 관련 첨부 파일을 추가
+
+
+## 앱 설명 스크린샷 제작 사이트
+
+- Mockup 제작 사이트 
+    * https://previewed.app/
+    
+    <div style="display: flex; justify-content: space-around;">
+    <img src="/assets/img/posts/2025-02-14-app-store-release/04-mockup-site.png" width="400" />
+    </div>
+
+- 이미지 사이즈 조절 사이트
+    * https://www.iloveimg.com/ko/resize-image/resize-jpg
+
+    <div style="display: flex; justify-content: space-around;">
+    <img src="/assets/img/posts/2025-02-14-app-store-release/05-image-resize-site.png" width="800" />
+    </div>
+
+## 4.일반정보 - 앱 정보 클릭 > 정보입력
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="/assets/img/posts/2025-02-14-app-store-release/06-app-info.png" width="400" />
+</div>
+
+1) 이름 : 앱 이름 
+2) 부제 : 앱 이름 하단에 표시될 문구(타이틀)
+3) 개인정보 처리방침 URIL
+    *   앱 관련 개인정보 처리방침 내용이 있는 사이트를 입력(회사 사이트, 개발자 블로그 등)
+
+## 5. 일반정보 - 가격 및 사용 가능 여부 클릭 > 정보 입력
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="/assets/img/posts/2025-02-14-app-store-release/07-pricing-availability.png" width="400" />
+</div>
+
+- 가격 : 무료의 경우 0 원 선택, 유료의 경우 해당 가격 선택
+- 사전 주문 여부 선택
+- 사용 가능 여부 : 배포하고싶은 국가 선택
+
+## 7. 저장 후, '심사를 위해 제출' 버튼 클릭
+두근두근 심사 타임
+
+
+## 앱스토어에 보여지는 내용
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="/assets/img/posts/2025-02-14-app-store-release/08-store-preview-1.png" width="400" />
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="/assets/img/posts/2025-02-14-app-store-release/09-store-preview-2.png" width="400" />
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="/assets/img/posts/2025-02-14-app-store-release/10-store-preview-3.png" width="400" />
+</div>

@@ -1,0 +1,65 @@
+---
+title: "블로그 첫 글 - Markdown 문법 연습"
+categories: [Blog, Markdown]
+tags: [markdown]
+redirect_from:
+  - "/posts/first/"
+---
+
+# 오늘부터 블로그에 배운내용을 조금씩 작성해 봐야겠다
+우선 markdown 문법부터 연습
+
+이것은 헤더입니다.
+===
+
+이것은 부제목입니다.
+---
+
+# H1입니다.
+## H2입니다.
+### H3입니다.
+#### H4입니다.
+##### H5입니다.
+###### H6입니다.
+
+[구글로 이동](https://google.com)
+
+> 이것은 BlockQuote 입니다.
+> 이것은 BlockQuote 입니다.
+	> 이것은 BlockQuote 입니다.
+	> 이것은 BlockQuote 입니다.
+	> 이것은 BlockQuote 입니다.
+		> 이것은 BlockQuote 입니다.
+		> 이것은 BlockQuote 입니다.
+		> 이것은 BlockQuote 입니다.
+		> 이것은 BlockQuote 입니다.
+
+
+1. 순서가 있는 목록
+2. 순서가 있는 목록
+3. 순서가 있는 목록
+
+* 순서가 없는 목록
+* 순서가 없는 목록
+* 순서가 없는 목록
+
+* 순서가 없는 목록
+	* 순서가 없는 목록
+		* 순서가 없는 목록
+
+<pre>코드 블락 열기 전 
+<code> 이곳에 코드를 삽입</code> 
+코드 블락 닫은 후</pre>
+
+
+~~ 이것은 취소선 입니다. ~~
+
+[Italic]          * 강조와 기울임 *
+[Bold]           ** 강조와 기울임 **
+[Bold & Italic] *** 강조와 기울임 ***
+               **** 강조와 기울임 ****
+
+
+##### 2시간동안 게시글 안올라가서 너무 답답 했는데 겨우 찾아냈다
+##### _config.yml 에 future : true 로 설정해주니까 제대로 적용 됐다.
+###### 지킬의 timezone 설정과 local의 timezone 설정이 맞지 않다거나 해서 포스팅 시간이 지킬 기준 미래의 포스팅이 되면 보이지 않게 되어 업로드가 안되는 것 같아 future: true 설정을 해주니 미래의 포스팅이 보이게 되는것같다.
