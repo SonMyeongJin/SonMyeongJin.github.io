@@ -5,7 +5,7 @@ tags:
   [ios,
   swift,
   ] 
-image: "/assets/img/Feb-04-2025 23-07-22.gif"
+image: "/assets/img/posts/2024-12-29-ios-timestamp/01-timestamp-demo.gif"
 ---
 
 Script에서 타임스탬프를 누르면 해당 시간대로 유튜브 재생하는 기능을 추가
@@ -20,13 +20,13 @@ Script에서 타임스탬프를 누르면 해당 시간대로 유튜브 재생�
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
   <!-- 첫 번째 이미지와 제목 -->
   <div style="text-align: center;">
-    <img src="/assets/img/Feb-04-2025 23-07-07.gif" width="400" style="margin: 10px;" />
+    <img src="/assets/img/posts/2024-12-29-ios-timestamp/02-test-works.gif" width="400" style="margin: 10px;" />
     <p style="font-size: 18px; font-weight: bold; margin-top: 10px;">테스트 - 작동 O</p>
   </div>
 
   <!-- 두 번째 이미지와 제목 -->
   <div style="text-align: center;">
-    <img src="/assets/img/Feb-04-2025 23-07-15.gif" width="400" style="margin: 10px;" />
+    <img src="/assets/img/posts/2024-12-29-ios-timestamp/03-actual-not-working.gif" width="400" style="margin: 10px;" />
     <p style="font-size: 18px; font-weight: bold; margin-top: 10px;">실제 - 작동 X</p>
   </div>
 </div>
@@ -54,5 +54,5 @@ struct DetailPage: View {
 ```
 정상적으로 작동!
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/Feb-04-2025 23-07-22.gif" width="400" />
+  <img src="/assets/img/posts/2024-12-29-ios-timestamp/01-timestamp-demo.gif" width="400" />
 </div>

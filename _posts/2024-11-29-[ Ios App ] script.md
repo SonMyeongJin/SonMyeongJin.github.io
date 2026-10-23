@@ -30,7 +30,7 @@ image: "/assets/img/title/ios.png"
 
 ## 상세 페이지 뼈대
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/스크린샷%202025-01-23%20오전%202.21.58.png" width="400" />
+  <img src="/assets/img/posts/2024-11-29-ios-script/01-detail-page-layout.png" width="400" />
 </div>
 
 * YoutubeView 밑에 ScriptVIew 배치

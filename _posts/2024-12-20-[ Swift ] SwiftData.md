@@ -9,7 +9,7 @@ tags:
     json,
     dataBase
   ] 
-image: "/assets/img/title/swift2.png"
+image: "/assets/img/title/swift.png"
 ---
 
 # SwiftData
@@ -78,7 +78,7 @@ image: "/assets/img/title/swift2.png"
 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/68FC0D9D-FA38-49E3-807D-586E579DED7A_1_105_c.jpeg" width="800" />
+  <img src="/assets/img/posts/2024-12-20-swift-swiftdata/01-swiftdata-json-flow.jpeg" width="800" />
 </div>
 
 # JSON에서 SwiftData로 변환 흐름

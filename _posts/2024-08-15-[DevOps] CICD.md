@@ -20,7 +20,7 @@ tags:
 
  CI를 도입함으로써, 소스코드의 품질을 유지하고, 여러 개발자들이 협업하는 과정에서 생길 수 있는 오류를 최소화 하는데 도움 되고, 개발자들은 안정적이고 신뢰할 수 있는 애플리케이션을 빠르게 제공할 수 있다.  
 
-![](/assets/img/스크린샷%202025-02-04%20오후%201.27.02.png)
+![](/assets/img/posts/2024-08-15-cicd/01-ci-pipeline.png)
 
 
 1. 각 브랜치 별로 새로운 코드에 대해서 commit & push를 진행
@@ -37,7 +37,7 @@ Continuous Delivery는 소프트웨어를 지속적으로 릴리스할 수 있�
 
 Continuous Deployment는 Continuous Delivery의 한 유형으로, 테스트 및 검증이 완료된 모든 변경사항이 자동으로 production 환경에 배포되는 것을 의미한다.
 
-![](/assets/img/스크린샷%202025-02-04%20오후%201.29.29.png)
+![](/assets/img/posts/2024-08-15-cicd/02-cd-pipeline.png)
 
 실제 서비스를 제공해야 할 브랜치를 main으로 가정하자.
 

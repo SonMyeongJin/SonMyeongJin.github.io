@@ -7,14 +7,14 @@ tags:
     ios,
     release,
     ] 
-image: "/assets/img/title/스크린샷 2025-02-04 오후 4.49.05.png"
+image: "/assets/img/title/daebak.png"
 ---
 
 # 🎤 DaeBak - KPOP字幕付き動画で韓国語学習 🎤  
 KPOPバラエティを見ながら **韓国語の勉強ができる** アプリ！  
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/posts/post/스크린샷 2025-02-17 오전 2.17.34.png" width="800" />
+  <img src="/assets/img/posts/2025-02-17-daebak-user-intro/01-app-intro.png" width="800" />
 </div>
 
 ---
@@ -55,7 +55,7 @@ KPOPバラエティを見ながら **韓国語の勉強ができる** アプリ�
 ---
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/posts/post/스크린샷 2025-02-17 오전 2.49.34.png" width="800" />
+  <img src="/assets/img/posts/2025-02-17-daebak-user-intro/02-faq-video-list.png" width="800" />
 </div>
 
 

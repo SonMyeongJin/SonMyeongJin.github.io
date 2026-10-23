@@ -9,18 +9,18 @@ tags:
     list,
     grid
   ] 
-image: "/assets/img/title/swift2.png"
+image: "/assets/img/title/swift.png"
 ---
 
 # Grid vs List
 
-![1](/assets/img/스크린샷%202025-01-23%20오후%209.02.54.png) 
+![1](/assets/img/posts/2024-12-02-swift-grid-vs-list/01-grid-vs-list.png) 
 
 * Grid는 horizontal Direction으로 사진을 배열하여 화면을 구성하기 좋다.
 
 가장 좋은 예로 Instargram /  Pinterest / Netflix
 
-![2](/assets/img/스크린샷%202025-01-23%20오후%209.13.21.png)
+![2](/assets/img/posts/2024-12-02-swift-grid-vs-list/02-grid-app-examples.png)
 
 
 

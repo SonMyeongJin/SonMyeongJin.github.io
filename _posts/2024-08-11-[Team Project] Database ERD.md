@@ -11,7 +11,7 @@ tags:
   ] 
 ---
 # DataBase E-R Diagram
-![ERD Diagram](/assets/img/erd.png)
+![ERD Diagram](/assets/img/posts/2024-08-11-team-project-erd/01-erd.png)
 
 ## Dependency Management
 ### Referential Integrity (참조 무결성)

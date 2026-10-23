@@ -2,7 +2,7 @@
 title:  "[Running App] 어플 기본 설계"
 categories: [Project, Personal]
 tags: [iOS, Swift, SwiftUI, CoreLocation, HealthKit, watchOS]
-image: "/assets/image/9-8/1.gif"
+image: "/assets/img/posts/2025-09-04-running-app/01-sleep-mode.gif"
 ---
 
 사용자의 러닝을 좀 더 적극적으로 재미있게 하기 위해서 캐릭터를 키우면서 러닝을 하는 앱이다. 사용자는 러닝을 통해 캐릭터의 체중을 관리하고 목표 달성을 통해 추가 기능을 이용할 수 있게 한다. 위치 기반을 통해 매일 적당한 러닝 거리를 채우며 캐릭터의 건강도 관리하고 사용자 본인의 운동욕구도 북돋기 위함이다.
@@ -27,9 +27,9 @@ image: "/assets/image/9-8/1.gif"
 
 - 자동 이벤트
   - 움직임 감지시 운동화면 전환
-  - ![](/assets/image/9-8/2.gif)
+  - ![](/assets/img/posts/2025-09-04-running-app/02-workout-mode.gif)
   - 수면 감지시 수면화면 전환
-  - ![](/assets/image/9-8/1.gif)
+  - ![](/assets/img/posts/2025-09-04-running-app/01-sleep-mode.gif)
   - 운동 장시간 휴식시 캐릭터 체중 증가
 - 수동 이벤트
   - 사용자가 버튼을 눌러 캐릭터에게 음식 먹이기

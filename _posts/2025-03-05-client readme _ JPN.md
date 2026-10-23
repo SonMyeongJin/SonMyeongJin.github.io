@@ -58,7 +58,7 @@ http://54.180.239.200
 
 - 記事の編集・削除ボタンは作成者のみ有効
     - ログインユーザーのuser_idと記事作成者のuser_idが一致する場合のみ、編集・削除ボタンが表示されるように実装。
-    - ![](/assets/img/posts/post/datax_post.jpeg)
+    - ![](/assets/img/posts/2025-03-05-datax-client/01-post.jpeg)
 
 - カテゴリーおよび検索ボックスを利用した検索機能
     - PostListページでカテゴリーを選択すると、同じカテゴリーの記事がフィルタリングされます。
@@ -71,20 +71,20 @@ http://54.180.239.200
 
 - モバイル版UI
     - 画面サイズが768px以下の場合、メニューバーがモバイル向けのデザインに変更。
-     - ![](/assets/img/posts/post/datax_mobile.gif)
+     - ![](/assets/img/posts/2025-03-05-datax-client/02-mobile.gif)
 
 --------------------------------------------------
 
 # PreView
 
 - createView
-![](/assets/img/posts/post/createView.png)
+![](/assets/img/posts/2025-03-05-datax-client/03-create-view.png)
 - detailViewLogin
-![](/assets/img/posts/post/detailViewLogin.png)
+![](/assets/img/posts/2025-03-05-datax-client/04-detail-view-login.png)
 - detailViewLogout
-![](/assets/img/posts/post/detailViewLogout.png)
+![](/assets/img/posts/2025-03-05-datax-client/05-detail-view-logout.png)
 - clicktag
-![](/assets/img/posts/post/clicktag.png)
+![](/assets/img/posts/2025-03-05-datax-client/06-click-tag.png)
 - listView
-![](/assets/img/posts/post/listView.png)
+![](/assets/img/posts/2025-03-05-datax-client/07-list-view.png)
 

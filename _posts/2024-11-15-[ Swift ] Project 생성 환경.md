@@ -7,16 +7,16 @@ tags:
     ios,
     swiftUI
   ]
-image: "/assets/img/title/swift2.png" 
+image: "/assets/img/title/swift.png" 
 ---
 
 ## Testing System
-![](/assets/img/testingSystem.png)
+![](/assets/img/posts/2024-11-15-swift-project-setup/01-testing-system.png)
 * XCTest for Unit and UI Tests
 * Swift Testing with XCTest UI Tests
 
     둘중하나 고르면 프로젝트 파일 밑에 Test 파일 두개 생김
-![](/assets/img/Testing2.png)
+![](/assets/img/posts/2024-11-15-swift-project-setup/02-test-files.png)
 
 > ### XCTest for Unit and UI Tests
 * 유닛 테스트(Unit Test)와 UI 테스트(UI Test)를 모두 수행한다는 의미
@@ -35,7 +35,7 @@ image: "/assets/img/title/swift2.png"
 
 
 ## Storage
-![](/assets/img/storage.png)
+![](/assets/img/posts/2024-11-15-swift-project-setup/03-storage.png)
 * Swift Data
     * Item.swift 파일 생성
 * Core Data 
@@ -78,7 +78,7 @@ image: "/assets/img/title/swift2.png"
     * 최신 프로젝트에서는 SwiftData가 더 간결하고 효율적일 가능성이 높습니다.
 
 ##  "host in cloud kit" 체크하면
-![alt text](/assets/img/cloudkit.png)
+![alt text](/assets/img/posts/2024-11-15-swift-project-setup/04-cloudkit.png)
 
 * info.plist 파일 생성
     * CloudKit 설정에 필요한 정보파일

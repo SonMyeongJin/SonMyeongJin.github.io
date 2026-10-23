@@ -35,20 +35,20 @@ Simple Storage Service의 약자로 파일 서버의 역할을 하는 서비스�
 s3 를 검색하고 들어간 후 버킷 만들기 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/posts/post/스크린샷 2025-02-11 오후 6.36.51.png" width="400" />
+  <img src="/assets/img/posts/2024-09-10-aws-s3/01-bucket-general-config.png" width="400" />
 </div>
 
 * 버킷 이름은 전세계 고유한 이름이여야 한다.
 * 대문자 사용 불가
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/posts/post/스크린샷 2025-02-11 오후 6.37.52.png" width="400" />
+  <img src="/assets/img/posts/2024-09-10-aws-s3/02-bucket-versioning.png" width="400" />
 </div>
 
 * 버전 관리의 경우, 같은 파일을 올리면서 계속 업데이트 과정을 거치더라도, 업데이트 이전의 내용을 복원할 수 있게 해준다
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/posts/post/스크린샷 2025-02-11 오후 6.37.56.png" width="400" />
+  <img src="/assets/img/posts/2024-09-10-aws-s3/03-block-public-access.png" width="400" />
 </div>
 
 그 다음, 퍼블릭 액세스
@@ -59,7 +59,7 @@ s3 를 검색하고 들어간 후 버킷 만들기
 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/posts/post/스크린샷 2025-02-11 오후 6.39.37.png" width="400" />
+  <img src="/assets/img/posts/2024-09-10-aws-s3/04-bucket-tabs.png" width="400" />
 </div>
 
 먼저 생성한 bucket을 누르면 여러 태그들이 뜨게됩니다. 객체의 경우 업로드한 파일 리스트들을 나타낸다.
@@ -67,7 +67,7 @@ s3 를 검색하고 들어간 후 버킷 만들기
 객체 탭에서 파일을 올리면 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/posts/post/스크린샷 2025-02-11 오후 6.49.37.png" width="400" />
+  <img src="/assets/img/posts/2024-09-10-aws-s3/05-object-acl.png" width="400" />
 </div>
 그러면 여러 옵션 사항들을 줄 수 있는데, 먼저 ACL 액세스 제어 목록에는 현재 객체(파일)을 읽고 쓰는 권한을 누구에게 줄 것인지 설정할 수 있다. AWS 계정 소유자만 읽고 쓰기가 가능하도록 선택하고 넘겨준다.
 

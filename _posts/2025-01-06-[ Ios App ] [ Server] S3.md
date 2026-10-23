@@ -47,7 +47,7 @@ BLACKPINK_Test2.json
 * 영상 한개씩 호출하므로 DetailPageView에서도 로딩속도 개선
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/스크린샷 2025-02-11 오전 2.58.13.png" width="400" />
+  <img src="/assets/img/posts/2025-01-06-ios-server-s3/01-s3-json-files.png" width="400" />
 </div>
 
 * S3에 Artistname _ file.json 형식으로 저장
@@ -57,13 +57,13 @@ BLACKPINK_Test2.json
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
   <!-- 첫 번째 이미지와 제목 -->
   <div style="text-align: center;">
-     <img src="/assets/img/스크린샷 2025-02-11 오전 2.59.26.png" width="400" style="margin: 10px;" />
+     <img src="/assets/img/posts/2025-01-06-ios-server-s3/02-detail-script-request.png" width="400" style="margin: 10px;" />
     <p style="font-size: 18px; font-weight: bold; margin-top: 10px;">DetailScript 요청시</p>
   </div>
 
   <!-- 두 번째 이미지와 제목 -->
   <div style="text-align: center;">
-     <img src="/assets/img/스크린샷 2025-02-11 오전 3.00.43.png" width="400" style="margin: 10px;" />
+     <img src="/assets/img/posts/2025-01-06-ios-server-s3/03-list-request.png" width="400" style="margin: 10px;" />
     <p style="font-size: 18px; font-weight: bold; margin-top: 10px;">List 요청시</p>
   </div>
 </div>

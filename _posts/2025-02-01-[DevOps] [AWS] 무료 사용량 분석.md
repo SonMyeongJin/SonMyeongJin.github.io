@@ -9,7 +9,7 @@ tags:
 image: "/assets/img/title/aws.png"
 ---
 
-![](/assets/img/posts/post/스크린샷%202025-02-16%20오후%201.03.16.png)
+![](/assets/img/posts/2025-02-01-aws-free-tier/01-free-tier-usage.png)
 
 ## 사용중인 프리티어 오퍼
 

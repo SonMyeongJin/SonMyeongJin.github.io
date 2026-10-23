@@ -11,7 +11,7 @@ tags:
     navigationLink,
     navigationStack
   ] 
-image: "/assets/img/title/swift2.png"
+image: "/assets/img/title/swift.png"
 ---
 
 # NavigationView -> NavigationStack
@@ -26,7 +26,7 @@ image: "/assets/img/title/swift2.png"
 
  ## NavvigationStack 중첩 문제
 
- ![1](/assets/img/스크린샷%202025-01-24%20오후%2012.15.14.png)
+ ![1](/assets/img/posts/2024-10-29-swift-navigation/01-nested-navigation-stack.png)
 
  * NavigationStack을 중첩해서 사용하면 이런식으로 뷰가 겹쳐서 보임
  * NavigationStack은 최상위 계층에서 한번만 선언해주면 됨

@@ -9,7 +9,7 @@ image: "/assets/img/title/ios.png"
 ---
 
 # App 특징 
-![alt text](/assets/img/plan.png)
+![alt text](/assets/img/posts/2024-11-20-ios-app-planning/01-app-plan.png)
 
 * 사용자에게 youtube 영상을 보여주면서 한국어 스크립트와 일본어 번역본 제공
 * 공부한 단어는 개인 단어장 기능 
@@ -70,4 +70,4 @@ image: "/assets/img/title/ios.png"
 ```
 
 ## 프로젝트 생성 환경
-![1](/assets/img/스크린샷%202025-01-12%20오후%204.31.41.png)
+![1](/assets/img/posts/2024-11-20-ios-app-planning/02-project-setup.png)

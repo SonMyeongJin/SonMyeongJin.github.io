@@ -8,7 +8,7 @@ tags:
     swiftUI,
     sheet,
   ] 
-image: "/assets/img/posts/post/Mar-13-2025%2022-51-59.gif"
+image: "/assets/img/posts/2025-03-13-ios-sheet-popup/01-sheet-popup-demo.gif"
 ---
 
 # 기능 설명
@@ -47,23 +47,23 @@ DBak 서비스가 영상을 검색하는 방식이 아닌 개발자인 내가 �
 
 
 
-![](/assets/img/posts/post/Mar-13-2025%2022-31-51.gif)
+![](/assets/img/posts/2025-03-13-ios-sheet-popup/02-sheet-code-demo.gif)
 
 
 ## 최종 기능 테스트
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div style="text-align: center;">
-    <img src="/assets/img/posts/post/IMG_6096.PNG" width="200" />
+    <img src="/assets/img/posts/2025-03-13-ios-sheet-popup/03-write-request.png" width="200" />
     <p>신청 메세지 작성</p>
   </div>
   <div style="text-align: center;">
-    <img src="/assets/img/posts/post/IMG_6097.PNG" width="200" />
+    <img src="/assets/img/posts/2025-03-13-ios-sheet-popup/04-mail-autofill.png" width="200" />
     <p>메일 앱 호출 후 자동으로 입력</p>
   </div>
 </div>
 
 - 앱 내에서 작성한 요청 내용을 아이폰의 기본 Mail 앱 호출 후 자동으로 채워서 전송.
 
-![](/assets/img/posts/post/스크린샷%202025-03-13%20오후%2011.04.08.png)
+![](/assets/img/posts/2025-03-13-ios-sheet-popup/05-mail-received.png)
 - 정상적으로 메일이 온것을 확인할 수 있다.

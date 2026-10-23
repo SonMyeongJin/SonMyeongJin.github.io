@@ -9,7 +9,7 @@ tags:
     list,
     forEach
   ] 
-image: "/assets/img/title/swift2.png"
+image: "/assets/img/title/swift.png"
 ---
 # List 와 ForEach 
 
@@ -120,5 +120,5 @@ var body: some View {
       .scrollContentBackground(.hidden)
       .globalBackground()
       ```
-      ![](/assets/img/Feb-02-2025%2022-23-01.gif)
+      ![](/assets/img/posts/2024-11-13-swift-list-foreach/01-list-background-color.gif)
       

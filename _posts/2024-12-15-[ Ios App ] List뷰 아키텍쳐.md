@@ -13,7 +13,7 @@ image: "/assets/img/title/ios.png"
 
 # ArtistListView 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/스크린샷 2025-01-24 오후 10.03.28.png" width="400" />
+  <img src="/assets/img/posts/2024-12-15-ios-list-view-architecture/01-artist-list-view.png" width="400" />
 </div>
 
 * Grid 를 이용해 구현
@@ -21,7 +21,7 @@ image: "/assets/img/title/ios.png"
 
 # ScriptListView 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/assets/img/스크린샷 2025-01-24 오후 10.03.37.png" width="400" />
+  <img src="/assets/img/posts/2024-12-15-ios-list-view-architecture/02-script-list-view.png" width="400" />
 </div>
 
 * 썸네일과 영상제목을 동시에 호출

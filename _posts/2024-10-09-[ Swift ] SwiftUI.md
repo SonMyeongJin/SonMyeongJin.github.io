@@ -7,7 +7,7 @@ tags:
     ios,
     List,
   ] 
-image: "/assets/img/title/swift2.png"
+image: "/assets/img/title/swift.png"
 ---
 
 ## List

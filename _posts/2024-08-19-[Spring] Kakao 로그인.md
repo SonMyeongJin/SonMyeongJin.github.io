@@ -14,11 +14,11 @@ image: "/assets/img/title/spring.png"
 # 사전작업
 1. 카카오 로그인 API REST API KEY 발급받기
     * https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api
-    ![](/assets/img/스크린샷%202025-02-09%20오후%2010.43.04.png)
+    ![](/assets/img/posts/2024-08-19-kakao-login/01-rest-api-key.png)
     * Redirect URI 등록 (내 어플리케이션 > 앱 설정 > 플랫폼)
-     ![](/assets/img/스크린샷%202025-02-09%20오후%2010.43.12.png)
+     ![](/assets/img/posts/2024-08-19-kakao-login/02-redirect-uri.png)
     * 동의 항목 체크 (내 어플리케이션 > 제품 설정 > 카카오 로그인 > 동의항목)
-    ![](/assets/img/스크린샷%202025-02-09%20오후%2010.43.25.png)
+    ![](/assets/img/posts/2024-08-19-kakao-login/03-consent-items.png)
 2. pom.xml에 라이브러리 추가
     ```
     <!--카카오 로그인-->
@@ -36,7 +36,7 @@ image: "/assets/img/title/spring.png"
 
 # Kakao API 로그인 기능 구현
 
-![](/assets/img/스크린샷%202025-02-09%20오후%2010.46.37.png)
+![](/assets/img/posts/2024-08-19-kakao-login/04-login-flow.png)
 
 
 ## 1. 로그인 페이지에 `카카오 로그인 버튼` 만들기

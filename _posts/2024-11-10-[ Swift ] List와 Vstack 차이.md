@@ -9,7 +9,7 @@ tags:
     list,
     vstack
   ] 
-image: "/assets/img/title/swift2.png"
+image: "/assets/img/title/swift.png"
 ---
 
 ## List 와 VStack 의 차이

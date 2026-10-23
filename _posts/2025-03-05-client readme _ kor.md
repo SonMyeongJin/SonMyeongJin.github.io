@@ -58,7 +58,7 @@ http://54.180.239.200
 
 - 글 수정,삭제 버튼 작성자에게만 활성화
     - 로그인시 상태의 user_id 값과 글 작성자의 user_id 값이 같아야 수정,삭제 버튼이 보이도록 구현했습니다.
-    - ![](/assets/img/posts/post/datax_post.jpeg)
+    - ![](/assets/img/posts/2025-03-05-datax-client/01-post.jpeg)
 
 - Category 및 검색박스로 검색기능
     - PostList 페이지에서 카테고리를 선택하면 같은 카테고리의 글들을 필터링합니다
@@ -71,20 +71,20 @@ http://54.180.239.200
 
 - 모바일버전 UI
     - 화면이 768px 이하로 작아지면 메뉴바가 모바일에 맞추어 변형됩니다.
-    - ![](/assets/img/posts/post/datax_mobile.gif)
+    - ![](/assets/img/posts/2025-03-05-datax-client/02-mobile.gif)
 
 
 --------------------------------------------------
 # 미리보기
 
 - createView
-![](/assets/img/posts/post/createView.png)
+![](/assets/img/posts/2025-03-05-datax-client/03-create-view.png)
 - detailViewLogin
-![](/assets/img/posts/post/detailViewLogin.png)
+![](/assets/img/posts/2025-03-05-datax-client/04-detail-view-login.png)
 - detailViewLogout
-![](/assets/img/posts/post/detailViewLogout.png)
+![](/assets/img/posts/2025-03-05-datax-client/05-detail-view-logout.png)
 - clicktag
-![](/assets/img/posts/post/clicktag.png)
+![](/assets/img/posts/2025-03-05-datax-client/06-click-tag.png)
 - listView
-![](/assets/img/posts/post/listView.png)
+![](/assets/img/posts/2025-03-05-datax-client/07-list-view.png)
 

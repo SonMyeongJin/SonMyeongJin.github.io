@@ -37,13 +37,13 @@ http://43.203.118.99:3000/
 
 - 開発フロー
     1. ERDの作成
-        - ![](/assets/img/posts/post/datax_erd.png)
+        - ![](/assets/img/posts/2025-03-05-datax-server/01-erd.png)
     2. MySQLとRailsプロジェクトの接続
     3. ERDデータに基づくモデルの定義 (属性)
     4. API明細書作成
         - ### [API Notion URL](https://son-myeongjin.notion.site/datax-project-api?v=1aa07b1a3de181e38b81000cf2237f46)
 
-        - ![](/assets/img/posts/post/datax_notion.png)
+        - ![](/assets/img/posts/2025-03-05-datax-server/02-api-notion.png)
     5. JWTトークンを使用したログイン機能の実装
         - RailsのDeviseライブラリを使用
     6. 記事の作成・削除・編集のロジックを実装
@@ -82,10 +82,10 @@ http://43.203.118.99:3000/
     - タグによるフィルタリング
         - GETリクエストでタグIDを指定すると、同じタグを持つ記事を配列で返す
 
-    - ![](/assets/img/posts/post/datax_tag.jpeg)
+    - ![](/assets/img/posts/2025-03-05-datax-server/03-tag-api.jpeg)
 
 # 工夫したポイント
 - JTIを利用したセキュリティ強化
    - JWTトークンのみでログインを管理すると、ログアウト後もトークンが有効でアクセスが可能となるため、JTIを導入。JTIによりトークンの拒否が可能になり、セキュリティを強化しました。
 
-- ![](/assets/img/posts/post/datax_login.jpeg)
+- ![](/assets/img/posts/2025-03-05-datax-server/04-login-jti.jpeg)
