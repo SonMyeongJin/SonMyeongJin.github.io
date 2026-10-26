@@ -425,4 +425,4 @@ String traceId = Optional.ofNullable(MDC.get("alb-trace-id"))
 - 코드 밖의 설정도 배포의 일부다. "코드에는 문제가 없다"는 결론에 닿기까지가 가장 오래 걸렸다
 - main 머지가 곧 공용 스테이징 배포인 구조에서는, 망가졌을 때 빨리 되돌리는 게 맞다. 다만 같은 일이 되풀이된다면 되돌리지 않고도 확인할 수 있는 장치(테스트 API 같은)를 먼저 만드는 편이 낫다
 
-이 글에서 짧게 넘어간 것들, 그러니까 `@Async`를 동기로 바꾼 판단과 늘어난 시간을 확인한 방법, 테스트 채널로 실제 메시지를 보내 보는 장치, Block Kit 없이 메시지 포맷을 다시 잡은 과정은 따로 정리할 생각이다.
+`@Async`를 동기로 바꾼 판단과 늘어난 시간을 확인한 방법은 [Slack 알림의 @Async를 떼어 낸 이유와, 늘어난 시간을 Datadog으로 잰 방법](/posts/spring-async-to-sync-datadog/)에, 테스트 채널로 실제 메시지를 보내 보는 장치와 Block Kit 없이 메시지 포맷을 다시 잡은 과정은 [Block Kit 없이 문자열로 Slack 알림 꾸미기](/posts/slack-message-format-without-block-kit/)에 정리했다.
