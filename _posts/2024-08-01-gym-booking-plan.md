@@ -2,6 +2,7 @@
 title: "체육시설 예약 팀 프로젝트 - 기획"
 categories: [Project, Gym Booking]
 tags: [team-project, notion, figma]
+image: "/assets/img/title/figma.png"
 redirect_from:
   - "/posts/Team-Project-Project-Plan/"
 ---

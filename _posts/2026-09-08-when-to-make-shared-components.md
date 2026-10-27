@@ -2,6 +2,7 @@
 title: "공통 컴포넌트는 언제 만들까: 리뷰어 프로필 화면을 Next.js로 옮기며 (PR 스택, 컴포넌트 위치, TextInput)"
 categories: [Frontend, Next.js]
 tags: [next-js, react, component-design, stacked-pr, code-review]
+image: "/assets/img/title/nextjs.png"
 mermaid: true
 ---
 

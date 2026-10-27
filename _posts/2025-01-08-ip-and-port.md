@@ -2,6 +2,7 @@
 title: "IP와 Port 개념 (로컬 서버 vs AWS)"
 categories: [CS, Network]
 tags: [network, ip, port, aws]
+image: "/assets/img/title/network.png"
 redirect_from:
   - "/posts/DevOps-IP와-Port/"
 ---

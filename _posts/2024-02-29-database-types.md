@@ -2,6 +2,7 @@
 title: "데이터베이스 종류 (계층형부터 NoSQL까지)"
 categories: [Backend, Database]
 tags: [database, rdbms, nosql]
+image: "/assets/img/title/database.png"
 redirect_from:
   - "/posts/DB-데이터베이스-종류/"
 ---

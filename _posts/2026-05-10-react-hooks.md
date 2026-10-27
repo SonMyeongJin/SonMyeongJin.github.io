@@ -2,6 +2,7 @@
 title: "React Hooks 기본 정리 (useState, useMemo, useEffect)"
 categories: [Frontend, React]
 tags: [react, hooks, onboarding]
+image: "/assets/img/title/react.png"
 redirect_from:
   - "/posts/OnBoarding-React-Hooks/"
 ---

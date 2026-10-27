@@ -2,6 +2,7 @@
 title: "체육시설 예약 팀 프로젝트 - ERD 설계"
 categories: [Project, Gym Booking]
 tags: [team-project, database, erd]
+image: "/assets/img/title/database.png"
 redirect_from:
   - "/posts/Team-Project-Database-ERD/"
 ---

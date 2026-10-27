@@ -2,6 +2,7 @@
 title: "CI/CD 개념 정리"
 categories: [DevOps, CI/CD]
 tags: [ci-cd]
+image: "/assets/img/title/github.png"
 redirect_from:
   - "/posts/DevOps-CICD/"
 ---

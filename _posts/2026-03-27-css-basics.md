@@ -2,6 +2,7 @@
 title: "CSS 기본 정리"
 categories: [Frontend, Basics]
 tags: [css, onboarding]
+image: "/assets/img/title/css.png"
 redirect_from:
   - "/posts/OnBoarding-CSS/"
 ---

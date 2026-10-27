@@ -2,6 +2,7 @@
 title: "컴파일러 기본 정리"
 categories: [CS, Compiler]
 tags: [compiler, interpreter, typescript, onboarding]
+image: "/assets/img/title/typescript.png"
 redirect_from:
   - "/posts/OnBoarding-컴파일러/"
 ---

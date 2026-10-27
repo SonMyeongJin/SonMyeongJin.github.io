@@ -2,6 +2,7 @@
 title: "AI 이미지 생성으로 앱 목업 디자인하기 (Nano Banana)"
 categories: [AI, Tools]
 tags: [ai, gemini, nano-banana, mockup]
+image: "/assets/img/title/ai.png"
 redirect_from:
   - "/posts/AI-이미지-생성으로-목업-디자인/"
 ---

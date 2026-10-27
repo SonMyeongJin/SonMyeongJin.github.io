@@ -2,6 +2,7 @@
 title: "리뷰 사진이 늦게 뜨는 이유를 쟀더니, 1.7초 중 1.3초는 애니메이션이었다"
 categories: [Frontend, Performance]
 tags: [performance, datadog, rum, jquery, image-optimization]
+image: "/assets/img/title/datadog.png"
 ---
 
 쇼핑몰의 상품 상세 페이지(스마트폰)에는 리뷰 목록이 있고, 리뷰에 붙은 사진을 탭하면 크게 볼 수 있다. 그런데 탭하고 나서 사진이 뜨기까지 로딩 스피너가 한동안 돈다. 리뷰는 구매를 정할 때 많이 보는 정보라서, 팀은 "리뷰 사진 확대를 빠르게 해서 고객의 구매 결정을 방해하지 않는다"를 과제로 잡았다. 기준은 두 단계였다.

@@ -2,6 +2,7 @@
 title: "HTML 기본 정리"
 categories: [Frontend, Basics]
 tags: [html, onboarding]
+image: "/assets/img/title/html.png"
 redirect_from:
   - "/posts/OnBoarding-HTML/"
 ---

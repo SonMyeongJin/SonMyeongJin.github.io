@@ -2,6 +2,7 @@
 title: "Docker로 Spring Boot 프로젝트 EC2에 배포하기"
 categories: [DevOps, Docker]
 tags: [docker, docker-hub, spring-boot, ec2]
+image: "/assets/img/title/docker.png"
 redirect_from:
   - "/posts/DevOps-Docker2/"
 ---

@@ -2,6 +2,7 @@
 title: "CI/CD 파이프라인 (GitHub Actions, Jenkins)"
 categories: [DevOps, CI/CD]
 tags: [ci-cd, github-actions, jenkins]
+image: "/assets/img/title/github.png"
 redirect_from:
   - "/posts/DevOps-CICD-Pipeline/"
 ---

@@ -2,6 +2,7 @@
 title: "Next.js 연수: PokeAPI로 포켓몬 도감을 만들며 배운 것 (App Router, 서버 컴포넌트, 시맨틱 HTML)"
 categories: [Frontend, Next.js]
 tags: [next-js, react, app-router, server-components, atomic-design]
+image: "/assets/img/title/nextjs.png"
 mermaid: true
 ---
 

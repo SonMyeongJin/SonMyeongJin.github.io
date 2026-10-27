@@ -3,6 +3,7 @@ layout: post
 title: "Stack과 Heap 메모리"
 categories: [CS, Memory]
 tags: [memory, stack, heap]
+image: "/assets/img/title/memory.png"
 redirect_from:
   - "/posts/Data-Structure-Stack-&-Heap/"
 date: 2025-12-17 00:00:00 +0900

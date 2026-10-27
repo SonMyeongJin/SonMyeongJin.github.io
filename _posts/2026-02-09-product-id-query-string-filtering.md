@@ -2,6 +2,7 @@
 title: "상품 ID에 쿼리 문자열이 섞여 일부 리뷰가 보이지 않던 문제 (필터링 vs 검증)"
 categories: [Backend, Web]
 tags: [php, mysql, query-string, validation, troubleshooting]
+image: "/assets/img/title/php.png"
 mermaid: true
 ---
 

@@ -2,6 +2,7 @@
 title: "React 기본 정리"
 categories: [Frontend, React]
 tags: [react, jsx, props, state, onboarding]
+image: "/assets/img/title/react.png"
 redirect_from:
   - "/posts/OnBoarding-React/"
 ---

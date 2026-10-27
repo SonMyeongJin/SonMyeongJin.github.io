@@ -2,6 +2,7 @@
 title: "패키지 관리자와 npm 기본 정리"
 categories: [Frontend, Tooling]
 tags: [npm, package-manager, onboarding]
+image: "/assets/img/title/npm.png"
 redirect_from:
   - "/posts/OnBoarding-패키지관리자/"
 ---

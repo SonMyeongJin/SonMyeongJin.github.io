@@ -2,6 +2,7 @@
 title: "프로필 이미지가 또 안 바뀌었다: Next.js 이미지 최적화 캐시와 ?v= (프로필 이미지 캐시 2편)"
 categories: [Frontend, Next.js]
 tags: [next-js, image-optimization, cache-busting, http-cache, troubleshooting]
+image: "/assets/img/title/nextjs.png"
 mermaid: true
 ---
 

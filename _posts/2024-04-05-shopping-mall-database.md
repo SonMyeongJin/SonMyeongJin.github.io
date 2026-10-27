@@ -2,6 +2,7 @@
 title: "쇼핑몰 CRUD 프로젝트 - Database"
 categories: [Project, Shopping Mall]
 tags: [database, mariadb]
+image: "/assets/img/title/mariadb.png"
 redirect_from:
   - "/posts/Project-DataBase/"
 ---

@@ -2,6 +2,7 @@
 title: "쇼핑몰 CRUD 프로젝트 - Frontend"
 categories: [Project, Shopping Mall]
 tags: [javascript, vue]
+image: "/assets/img/title/vue.png"
 redirect_from:
   - "/posts/Project-frontend/"
 ---

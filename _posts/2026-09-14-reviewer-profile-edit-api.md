@@ -2,6 +2,7 @@
 title: "리뷰어 프로필 편집 API 연동: 닉네임 20자는 어떻게 세나 (Intl.Segmenter, 업로드 타임아웃, blob URL)"
 categories: [Frontend, Next.js]
 tags: [next-js, react, form, unicode, file-upload]
+image: "/assets/img/title/nextjs.png"
 mermaid: true
 ---
 

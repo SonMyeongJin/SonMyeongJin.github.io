@@ -2,6 +2,7 @@
 title: "JavaScript 기본 정리"
 categories: [Frontend, Basics]
 tags: [javascript, dom, onboarding]
+image: "/assets/img/title/javascript.png"
 redirect_from:
   - "/posts/OnBoarding-JavaScript/"
 ---

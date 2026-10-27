@@ -2,6 +2,7 @@
 title: "고정 목업에서 실데이터로: 리뷰어 프로필 API 연결 (목업의 함정, 서버 5건 + 브라우저 추가 로딩)"
 categories: [Frontend, Next.js]
 tags: [next-js, react, msw, pagination, api-integration]
+image: "/assets/img/title/nextjs.png"
 mermaid: true
 ---
 

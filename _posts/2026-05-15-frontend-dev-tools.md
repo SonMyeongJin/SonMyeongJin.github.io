@@ -2,6 +2,7 @@
 title: "프론트엔드 개발 도구 정리 (vanilla-extract, Biome, Storybook, Vitest)"
 categories: [Frontend, Tooling]
 tags: [vanilla-extract, biome, storybook, vitest, onboarding]
+image: "/assets/img/title/frontend-tools.png"
 redirect_from:
   - "/posts/OnBoarding-라이브러리/"
 ---

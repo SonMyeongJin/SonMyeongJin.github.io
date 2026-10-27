@@ -2,6 +2,7 @@
 title: "체육시설 예약 팀 프로젝트 - 화면 설계"
 categories: [Project, Gym Booking]
 tags: [team-project, figma, ui-design]
+image: "/assets/img/title/figma.png"
 redirect_from:
   - "/posts/Team-Project-Design-Application/"
 ---

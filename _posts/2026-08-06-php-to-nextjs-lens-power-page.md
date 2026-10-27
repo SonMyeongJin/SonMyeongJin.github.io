@@ -2,6 +2,7 @@
 title: "PHP 쇼핑몰의 My 도수 화면을 Next.js로 옮기기 (단계적 배포, 폼, 접근성)"
 categories: [Frontend, Next.js]
 tags: [next-js, react, form, accessibility, legacy-migration]
+image: "/assets/img/title/nextjs.png"
 mermaid: true
 ---
 

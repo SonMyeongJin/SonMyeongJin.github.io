@@ -2,6 +2,7 @@
 title: "Docker 설치와 기본 명령어"
 categories: [DevOps, Docker]
 tags: [docker]
+image: "/assets/img/title/docker.png"
 redirect_from:
   - "/posts/DevOps-Docker/"
 ---

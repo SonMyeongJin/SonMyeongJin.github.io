@@ -2,6 +2,7 @@
 title: "리뷰 사진이 빨라지면 더 살까: GA4 전후 비교 설계와 빠져 있던 이벤트"
 categories: [Frontend, Performance]
 tags: [ga4, analytics, gtm, jquery, performance]
+image: "/assets/img/title/google-analytics.png"
 ---
 
 [앞 글](/posts/review-photo-lightbox-bottleneck/)에서 리뷰 사진을 탭해서 크게 보기까지 실제 사용자 기준 p50 1.7초가 걸리고, 그중 1.3초가 애니메이션이라는 것을 찾았다. 이 과제의 기준은 세 단계였다.

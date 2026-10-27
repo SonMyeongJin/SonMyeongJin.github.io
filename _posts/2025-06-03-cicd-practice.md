@@ -2,6 +2,7 @@
 title: "CI/CD 파이프라인 구현 실습 (GitHub Actions, Docker, EC2)"
 categories: [DevOps, CI/CD]
 tags: [ci-cd, github-actions, docker, aws]
+image: "/assets/img/title/github.png"
 redirect_from:
   - "/posts/DevOps-CICD-Practice/"
 ---

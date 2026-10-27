@@ -2,6 +2,7 @@
 title: "쇼핑몰 CRUD 프로젝트 - 설계"
 categories: [Project, Shopping Mall]
 tags: [spring-boot, vue]
+image: "/assets/img/title/spring.png"
 redirect_from:
   - "/posts/Project-쇼팡몰-설계/"
 ---

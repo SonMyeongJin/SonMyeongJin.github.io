@@ -2,6 +2,7 @@
 title: "블로그 첫 글 - Markdown 문법 연습"
 categories: [Blog, Markdown]
 tags: [markdown]
+image: "/assets/img/title/markdown.png"
 redirect_from:
   - "/posts/first/"
 ---
