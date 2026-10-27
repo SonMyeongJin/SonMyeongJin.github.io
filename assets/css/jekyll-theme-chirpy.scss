@@ -8,3 +8,19 @@
 ';
 
 /* append your custom style below */
+
+/* 아카이브: 입사 같은 기준점을 구분선처럼 보이게 한다 */
+#archives ul li.milestone {
+  background-image: none !important; /* 홀수 줄 배경 무늬 끄기 (다크 모드 포함) */
+  border-top: 1px dashed var(--link-color);
+  border-bottom: 1px dashed var(--link-color);
+
+  a {
+    font-weight: 700;
+    color: var(--link-color);
+
+    &::before {
+      background-color: var(--link-color); /* 타임라인 점 색 */
+    }
+  }
+}
